@@ -1,15 +1,33 @@
 {
   "title": "Kathleen Broussard, Sociologist",
   "layout_style": "overflow",
-  "palette": "orange",
+  "palette": "green",
   "header": {
-    "type": "header",
-    "title": "Kathleen Broussard",
-    "tagline": "Sociologist of reproduction, medicine, and population health",
+    "social_links": [
+      {
+        "type": "action",
+        "label": "Twitter",
+        "url": "https://twitter.com/rk_broussard",
+        "style": "icon",
+        "icon_class": "twitter",
+        "new_window": true
+      },
+      {
+        "type": "action",
+        "label": "Linkedin",
+        "url": "https://www.linkedin.com/in/kathleen-broussard/ ",
+        "style": "icon",
+        "icon_class": "linkedin",
+        "new_window": true
+      }
+    ],
     "profile_img": "images/author.png",
-    "profile_img_alt": "Author avatar",
     "background": "light",
-    "has_nav": true,
+    "tagline": "Sociologist of reproduction, medicine, and population health",
+    "has_social": true,
+    "profile_img_alt": "Author avatar",
+    "title": "Kathleen Broussard",
+    "type": "header",
     "nav_links": [
       {
         "type": "action",
@@ -43,25 +61,7 @@
         "style": "link"
       }
     ],
-    "has_social": true,
-    "social_links": [
-      {
-        "type": "action",
-        "label": "Twitter",
-        "url": "https://twitter.com/rk_broussard",
-        "style": "icon",
-        "icon_class": "twitter",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/kathleen-broussard/ ",
-        "style": "icon",
-        "icon_class": "linkedin",
-        "new_window": true
-      }
-    ]
+    "has_nav": true
   },
   "footer": {
     "type": "footer",
