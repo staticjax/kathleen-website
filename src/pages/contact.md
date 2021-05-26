@@ -6,7 +6,7 @@ sections:
     section_id: contact-form
     content: To get in touch, please use the form below.
     form_id: contactForm
-    form_action: https://formspree.io/f/xqkwqarq
+    form_action: https://formspree.io/f/xnqldjnq
     form_method: POST
     form_fields:
       - type: form_field
