@@ -1,0 +1,69 @@
+{
+  "title": "Kathleen Broussard, Sociologist",
+  "layout_style": "overflow",
+  "palette": "orange",
+  "header": {
+    "type": "header",
+    "title": "Kathleen Broussard",
+    "tagline": "Sociologist of reproduction, medicine, and population health",
+    "profile_img": "images/author.png",
+    "profile_img_alt": "Author avatar",
+    "background": "light",
+    "has_nav": true,
+    "nav_links": [
+      {
+        "type": "action",
+        "label": "Home",
+        "url": "/",
+        "style": "link"
+      },
+      {
+        "type": "action",
+        "label": "Research",
+        "url": "/research/",
+        "style": "link"
+      },
+      {
+        "type": "action",
+        "label": "CV",
+        "url": "https://github.com/rkatbroussard/websitecontent/blob/main/CV_Broussard.pdf",
+        "style": "link"
+      },
+      {
+        "type": "action",
+        "label": "Contact",
+        "url": "/contact/",
+        "style": "link"
+      },
+      {
+        "type": "action",
+        "label": "About",
+        "url": "/about/",
+        "style": "link"
+      }
+    ],
+    "has_social": true,
+    "social_links": [
+      {
+        "type": "action",
+        "label": "Twitter",
+        "url": "https://twitter.com/",
+        "style": "icon",
+        "icon_class": "twitter",
+        "new_window": true
+      },
+      {
+        "type": "action",
+        "label": "GitHub",
+        "url": "https://github.com/",
+        "style": "icon",
+        "icon_class": "github",
+        "new_window": true
+      }
+    ]
+  },
+  "footer": {
+    "type": "footer",
+    "content": "&copy; Kathleen Broussard. All rights reserved.</a>"
+  }
+}
