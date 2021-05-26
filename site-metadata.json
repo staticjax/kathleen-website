@@ -27,7 +27,8 @@
         "type": "action",
         "label": "CV",
         "url": "https://github.com/rkatbroussard/websitecontent/blob/main/CV_Broussard.pdf",
-        "style": "link"
+        "style": "link",
+        "new_window": true
       },
       {
         "type": "action",
@@ -47,17 +48,17 @@
       {
         "type": "action",
         "label": "Twitter",
-        "url": "https://twitter.com/",
+        "url": "https://twitter.com/rk_broussard",
         "style": "icon",
         "icon_class": "twitter",
         "new_window": true
       },
       {
         "type": "action",
-        "label": "GitHub",
-        "url": "https://github.com/",
+        "label": "Linkedin",
+        "url": "https://www.linkedin.com/in/kathleen-broussard/ ",
         "style": "icon",
-        "icon_class": "github",
+        "icon_class": "linkedin",
         "new_window": true
       }
     ]
