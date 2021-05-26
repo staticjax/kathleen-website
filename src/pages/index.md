@@ -3,10 +3,10 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: Kathleen Broussard.
+    title: Kathleen Broussard
     section_id: hero
-    content: I am a PhD Candidate at the University of Texas at Austin who studies
-      reproduction, medicine, and population health.
+    content: Hi, I'm a PhD Candidate at the University of Texas at Austin. I study
+      reproduction, medicine, population health, and social policy.
   - type: section_content
     title: About
     section_id: about
