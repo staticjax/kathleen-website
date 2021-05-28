@@ -5,7 +5,7 @@ subtitle: "Perspectives on Sexual and Reproductive Health "
 date: 2018-07-11T05:00:00.000Z
 thumb_img_path: images/9.jpg
 thumb_img_alt: A man sitting at the table
-content_img_path: images/9.jpg
+content_img_path: /images/google_needanabortion.png
 content_img_alt: A man sitting at the table
 excerpt: Work at home parent is an entrepreneur who works from home and
   integrates parenting into his or her business activities. They are sometimes
