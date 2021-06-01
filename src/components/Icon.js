@@ -1,6 +1,5 @@
 import React from 'react';
 import _ from 'lodash';
-import mail from '../svg/mail.svg'
 
 export default class Icon extends React.Component {
     render() {
