@@ -2,7 +2,7 @@
  * Site Header
  */
 .site-header {
-  background: #fff;
+  background: #f4e4dc;
   border-bottom: 1px solid _palette(border);
   color: _palette(primary);
 }
@@ -84,7 +84,7 @@
 }
 
 .site-navigation {
-  background: #fff;
+  // background: #fff;
   bottom: 0;
   box-sizing: border-box;
   -webkit-overflow-scrolling: touch;
@@ -238,7 +238,8 @@
 @media only screen and (min-width: 801px) {
   .site-header {
     border-bottom: 0;
-    border-right: 1px solid _palette(border);
+    // border-right: 1px solid _palette(border);
+    border-right: 1px solid #fff;
     height: 100%;
     left: 0;
     position: fixed;
