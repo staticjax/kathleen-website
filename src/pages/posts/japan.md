@@ -43,22 +43,31 @@ seo:
       relativeUrl: true
 template: post
 ---
-**A Weekend in Japan**
+**Reach & impact**
 
-<!--StartFragment-->
+<!--StartFragment-->\[](http://dx.doi.org/10.1136/bmjsrh-2018-200198)
 
-Read the article [here. ](http://dx.doi.org/10.1136/bmjsrh-2018-200198)[](http://dx.doi.org/10.1136/bmjsrh-2018-200198)
+* Published [BMJ Sexual and Reproductive Health](http://dx.doi.org/10.1136/bmjsrh-2018-200198)
+* Editor’s Choice
+* Lead article 
+* Media coverage: The Guardian, BuzzFeed, Bustle, among others 
 
+**Findings and illustrative quotes** 
 
+* **Women in Northern Ireland still
+  experience multiple barriers to travelling
+  to access abortion care even though
+  abortions are now provided free in Great
+  Britain.**
 
-<http://dx.doi.org/10.1136/bmjsrh-2018-200198>
-
-
-
-<!--EndFragment-->
-
- vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
-
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
-
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+  > #### *Being a single mum of quite a few children I’d have to somehow find childcare. And on top of that I’d have to try to hide it, because there's a massive stigma attached to it in this country. You feel like a criminal no matter what pathway you take.   -Pamela, 33 years old* 
+* **Self-managed medication abortion using
+  online telemedicine may be preferred
+  over travel due its convenience and
+  safety, but the experience is dominated
+  by fear and isolation due to the risk of
+  prosecution.**
+* **Lack of clarity surrounding Northern
+  Irish abortion laws delays access to care
+  and fuels mistrust of the healthcare
+  system.**
