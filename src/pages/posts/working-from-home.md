@@ -3,17 +3,24 @@ title: Motivations and Experiences of People Seeking Medication Abortion Online
   in the United States
 subtitle: "Perspectives on Sexual and Reproductive Health "
 date: 2018-07-11T05:00:00.000Z
-thumb_img_path: images/9.jpg
-thumb_img_alt: A man sitting at the table
-content_img_path: /images/google_needanabortion.png
-content_img_alt: A man sitting at the table
-excerpt: Work at home parent is an entrepreneur who works from home and
-  integrates parenting into his or her business activities. They are sometimes
-  referred to as a WAHM (work at home mom) or a WAHD (work at home dad).
+thumb_img_path: /images/woman_computer.png
+thumb_img_alt: woman at home on laptop computer
+content_img_path: /images/woman_computer.png
+content_img_alt: woman at home on laptop computer
+excerpt: We conducted anonymous in-depth interviews with 32 people from 20
+  states who sought abortion medications online. Participants were asked about
+  their (or their partners’) motivations for considering self-managed abortion,
+  the sources of medications they identified and any other methods they
+  considered.
 seo:
   type: stackbit_page_meta
-  title: The Advantages and Disadvantages of Working from Home
-  description: Work at home parent is an entrepreneur who works from home
+  title: Motivations and Experiences of People Seeking Medication Abortion Online
+    in the United States
+  description: We conducted anonymous in-depth interviews with 32 people from 20
+    states who sought abortion medications online. Participants were asked about
+    their (or their partners’) motivations for considering self-managed
+    abortion, the sources of medications they identified and any other methods
+    they considered.
   extra:
     - name: og:type
       value: article
@@ -39,18 +46,42 @@ seo:
       relativeUrl: true
 template: post
 ---
-## Advantages and Disadvantages
+## Abstract 
 
 Read the article [here](https://onlinelibrary.wiley.com/doi/abs/10.1363/psrh.12073)
 
-Dignissim diam quis enim lobortis scelerisque. Vitae elementum curabitur vitae nunc. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Et ligula ullamcorper malesuada proin libero nunc consequat interdum. Quam lacus suspendisse faucibus interdum posuere. Bibendum arcu vitae elementum curabitur vitae nunc. Ullamcorper malesuada proin libero nunc. Sit amet risus nullam eget felis eget nunc lobortis. Elementum curabitur vitae nunc sed velit dignissim sodales. Turpis in eu mi bibendum neque egestas congue quisque egestas.
+CONTEXT: State legislation restricting access to abortion in the clinic setting raises the possibility that an increasing
+number of individuals in the United States will self-manage their abortion at home. Medications sourced online represent
+a potential pathway to abortion self-management. Yet, very little is known about the reasons U.S. residents may
+seek abortion online or their experiences finding medications and information.
 
-> Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do. - Pele
+
+METHODS: In January–June 2017, anonymous in-depth interviews were conducted with 32 people from 20
+states who sought abortion medications online (30 women and two men seeking medications for their partners).
+Participants were asked about their (or their partners’) motivations for considering self-managed abortion, the sources
+of medications they identified and any other methods they considered. Transcripts were coded and analyzed according
+to the principles of grounded theory.
+
+
+RESULTS: The analysis revealed four key themes: Seeking abortion medications online can be a response to clinic
+access barriers both in states with and in ones without restrictive abortion laws; self-managed abortion can be a preference
+over clinical care; online options offer either information or medications, but not both; and the lack of trusted
+online options can delay care and lead to consideration of ineffective or unsafe alternatives.
+
+
+CONCLUSION: Current online options for abortion medications leave many important needs unmet, particularly
+for women who encounter barriers to obtaining clinic-based abortion services. There is a public health justification to
+reduce clinic access barriers and to make medication abortion that is sourced online and managed at home as safe
+and supported as possible.
+
+> Succes -- quotes here: 
 
 *Our analysis revealed four key themes: Seeking abortion medications online can be a response to clinic access barriers both in states with and in ones without restrictive abortion laws; self-managed abortion can be a preference over clinical care; online options offer either information or medications, but not both; and the lack of trusted online options can delay care and lead to consideration of ineffective or unsafe alternatives*.
 
 <!--EndFragment-->
 
-## Types Of Work
+## Reach & Impact 
 
-Fermentum iaculis eu non diam. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Viverra nam libero justo laoreet sit amet cursus. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Aliquet sagittis id consectetur purus ut. Iaculis eu non diam phasellus. Ipsum dolor sit amet consectetur adipiscing elit duis. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Dictum sit amet justo donec enim diam. Ultrices eros in cursus turpis massa tincidunt dui. Adipiscing elit ut aliquam purus sit.
+* Lead article 
+* Cited in June Medical v. Gee Amicus Brief to the U.S. Supreme Court
+* Media coverage: The New York Times, the Atlantic, PBS Frontline, Los Angeles Times, Wired, among others
