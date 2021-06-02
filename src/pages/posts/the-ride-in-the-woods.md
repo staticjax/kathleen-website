@@ -47,4 +47,3 @@ template: post
 
 ## Findings & illustrative quotes
 
-Congue eu
