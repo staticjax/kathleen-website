@@ -51,8 +51,8 @@ template: post
 
 **Women in Northern Ireland still experience multiple barriers to travelling to access abortion care even though abortions are now provided free in Great Britain.**
 
->*Being a single mum of quite a few children I’d have to somehow find childcare. And on top of that I’d have to try to hide it, because there's a massive stigma attached to it in this country. You feel like a criminal no matter what pathway you take.*
-\-Pamela, 33 years old
+*Being a single mum of quite a few children I’d have to somehow find childcare. And on top of that I’d have to try to hide it, because there's a massive stigma attached to it in this country. You feel like a criminal no matter what pathway you take.*  
+-Pamela, 33 years old
 
 **Self-managed medication abortion using online telemedicine may be preferred over travel due its convenience and safety, but the experience is dominated by fear and isolation due to the risk of prosecution.**
 
