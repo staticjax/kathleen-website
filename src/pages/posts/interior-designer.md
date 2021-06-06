@@ -1,13 +1,11 @@
 ---
-title: How To Choose An Interior Designer
-subtitle: >-
-  Interior design is “the art or process of designing the interior, often
-  including the exterior, of a room or building”.
-date: '2017-03-26'
+title: "The Changing Landscape of Abortion Care: Embodied Experiences of
+  Structural Stigma in the Republic of Ireland and Northern Ireland"
+subtitle: ""
+date: 2017-03-26
 thumb_img_path: images/1.jpg
 thumb_img_alt: A wooden table and white chairs
-excerpt: >-
-  Interior design is “the art or process of designing the interior, often
+excerpt: Interior design is “the art or process of designing the interior, often
   including the exterior, of a room or building”. An interior designer is
   someone who coordinates and manages such projects. Interior design is a
   multifaceted profession that includes conceptual development, communicating
@@ -18,35 +16,36 @@ seo:
   title: How To Choose An Interior Designer
   description: Interior design is “the art or process of designing the interior
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: article
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: How To Choose An Interior Designer
       keyName: property
-    - name: 'og:description'
+    - name: og:description
       value: Interior design is “the art or process of designing the interior
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: images/1.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: How To Choose An Interior Designer
-    - name: 'twitter:description'
+    - name: twitter:description
       value: Interior design is “the art or process of designing the interior
-    - name: 'twitter:image'
+    - name: twitter:image
       value: images/1.jpg
       relativeUrl: true
 template: post
 ---
+Photo by []()
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+Published in [*Social Science and Medicine*](https://doi.org/10.1016/j.socscimed.2019.112686) 
 
-> “Creativity is nothing but the way to solve new problems.”
+## About the study 
+The private use of abortion medication outside of the formal healthcare setting is an international phenomenon. Despite new and expanding pathways to abortion access, we know little about how women's perceptions and experiences of abortion may also be changing. This study examines the embodied experience of 68 women who sought abortion services in Northern Ireland and the Republic of Ireland. Social stigma and restrictive abortion laws were major barriers to care at the time of study, providing the opportunity to explore the ways biological, social, and structural factors shape embodiment. 
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
-
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+## Findings 
+Those who obtained an abortion either traveled abroad for clinical care or self-managed a medication abortion at home. Those who traveled most often emphasized legal and medical risks of abortion at home, while those who self-managed emphasized social, financial, and emotional risks of pursuing clinical abortion care abroad. Given the increase in reproductive self-care alternatives, these findings situate self-managed abortion in the literature of (de)medicalization and reveal the ways technology and structural factors shape perceptions and beliefs about pain, the fetus, method, and physical environment. For some, self-managed medication abortion may be a preferred pathway to care. Policies that consider medication self-management as part of a spectrum of legitimate options can improve abortion access for marginalized groups while also offering an improved abortion experience for those who prefer medication abortion and an out-of-clinic environment.
