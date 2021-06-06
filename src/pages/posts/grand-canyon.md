@@ -1,53 +1,56 @@
 ---
-title: Research Post 3
-date: '2019-03-10'
-thumb_img_path: images/8.jpg
-thumb_img_alt: Hikers on the trail
-content_img_path: images/8.jpg
-content_img_alt: Hikers on the trail
-excerpt: >-
-  The Grand Canyon is a steep-sided canyon carved by the Colorado River in
-  Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to 18
-  miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857
+title: Demand for Self-Managed Medication Abortion Using Online Telemedicine in
+  the United States
+date: 2019-12-04T06:00:00.000Z
+thumb_img_path: /images/ajph_2019_demand-for-smma.png
+thumb_img_alt: "—Map Showing Density of Requests for Abortion Medications to
+  Women on Web by State of Residence: United States; October 15, 2017–August 15,
+  2018"
+content_img_path: /images/ajph_2019_demand-for-smma.png
+content_img_alt: "—Map Showing Density of Requests for Abortion Medications to
+  Women on Web by State of Residence: United States; October 15, 2017–August 15,
+  2018"
+excerpt: The Grand Canyon is a steep-sided canyon carved by the Colorado River
+  in Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to
+  18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857
   meters).
 seo:
   type: stackbit_page_meta
   title: Hiking The Grand Canyon
-  description: >-
-    The Grand Canyon is a steep-sided canyon carved by the Colorado River in
-    Arizona
+  description: The Grand Canyon is a steep-sided canyon carved by the Colorado
+    River in Arizona
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: article
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: Hiking The Grand Canyon
       keyName: property
-    - name: 'og:description'
-      value: >-
-        The Grand Canyon is a steep-sided canyon carved by the Colorado River in
+    - name: og:description
+      value: The Grand Canyon is a steep-sided canyon carved by the Colorado River in
         Arizona
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: images/8.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: Hiking The Grand Canyon
-    - name: 'twitter:description'
-      value: >-
-        The Grand Canyon is a steep-sided canyon carved by the Colorado River in
+    - name: twitter:description
+      value: The Grand Canyon is a steep-sided canyon carved by the Colorado River in
         Arizona
-    - name: 'twitter:image'
+    - name: twitter:image
       value: images/8.jpg
       relativeUrl: true
 template: post
 ---
 
-Photo by [Galen Crout.](https://unsplash.com/photos/fItRJ7AHak8)
+Photo by [](https://)
 
+Published in [*American Journal of Public Health*](https://doi.org/10.2105/AJPH.2019.305369)
+ 
 Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
 
 ## Long Distance Hiking
