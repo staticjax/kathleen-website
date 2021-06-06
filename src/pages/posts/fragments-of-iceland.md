@@ -46,15 +46,19 @@ Published in [Contraception](https://doi.org/10.1016/j.contraception.2019.08.005
 
 > Iceland, I'm in love with that country, the people are incredible. - Kit Harington
 
-Study design
+**Study design**
 In 2018, we conducted a mobile phone survey with 3455 married men and women in Bihar and Maharashtra, two of India’s most populous states. As part of a broader survey on social inequality, welfare programs, and health, we asked respondents about their awareness of medical abortion and whether they (or their wife) had ever had a medical abortion.
 
-Results
+
+**Results**
 Among men and women in Bihar and Maharashtra, one fifth to one third of respondents said that they had heard of medical abortion. In Bihar, men were more likely than women to report having heard of pills that can be used to end a pregnancy. Awareness of medical abortion was positively associated with education and with women’s status within the household. Consistent with results from representative face-to-face surveys, reported use of abortion medications was low.
 
-Conclusion
+
+
+**Conclusion**
 Our findings demonstrate that respondents are willing to answer abortion-related questions via mobile phone survey and reveal differences in reported awareness of medical abortion according to region, sex, education, and household status.
 
-Implications
+
+**Implications**
 Inclusion of abortion-related questions in a large-scale, social attitudes phone survey is a feasible option for assessing public awareness of medical abortion in India.
 
