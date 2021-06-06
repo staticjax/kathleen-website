@@ -2,10 +2,10 @@
 title: Knowledge, interest, and motivations surrounding self-managed medication
   abortion among patients at three Texas clinics
 subtitle: ""
-date: 2018-01-15
-thumb_img_path: images/4.jpg
+date: 2020-03-03T06:00:00.000Z
+thumb_img_path: /images/wow_hand_mouth_pills.png
 thumb_img_alt: ""
-content_img_path: images/4.jpg
+content_img_path: /images/wow_hand_mouth_pills.png
 content_img_alt: ""
 excerpt: ""
 seo:
@@ -39,7 +39,7 @@ seo:
 template: post
 ---
 
-Photo by [](https://www.pexels.com/photo/three-person-about-to-surf-1768784/)
+Photo by [Women on Web](https://www.womenonweb.org/en/)
 
 > Considering or attempting self-managed abortion may be part of the pathway to seeking in-clinic care, particularly among those experiencing access barriers. However, considerable interest in medication self-management as an alternative to the clinic also suggests a demand for more autonomous abortion care options.
 
