@@ -3,22 +3,18 @@ title: Demand for Self-Managed Medication Abortion Using Online Telemedicine in
   the United States
 date: 2019-12-04T06:00:00.000Z
 thumb_img_path: /images/ajph_2019_demand-for-smma.png
-thumb_img_alt: "—Map Showing Density of Requests for Abortion Medications to
+thumb_img_alt: "Map Showing Density of Requests for Abortion Medications to
   Women on Web by State of Residence: United States; October 15, 2017–August 15,
   2018"
 content_img_path: /images/ajph_2019_demand-for-smma.png
-content_img_alt: "—Map Showing Density of Requests for Abortion Medications to
+content_img_alt: "Map Showing Density of Requests for Abortion Medications to
   Women on Web by State of Residence: United States; October 15, 2017–August 15,
   2018"
-excerpt: The Grand Canyon is a steep-sided canyon carved by the Colorado River
-  in Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to
-  18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857
-  meters).
+excerpt: ""
 seo:
   type: stackbit_page_meta
   title: Hiking The Grand Canyon
-  description: The Grand Canyon is a steep-sided canyon carved by the Colorado
-    River in Arizona
+  description: ""
   extra:
     - name: og:type
       value: article
@@ -47,14 +43,22 @@ seo:
 template: post
 ---
 
-Photo by [](https://)
+Map Showing Density of Requests for Abortion Medications to Women on Web by State of Residence: United States; October 15, 2017–August 15, 2018
 
-Published in [*American Journal of Public Health*](https://doi.org/10.2105/AJPH.2019.305369)
  
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+>Demand for self-managed medication abortion through online telemedicine is prevalent in the United States. There is a public health justification to make these abortions as safe, effective, and supported as possible. 
 
-## Long Distance Hiking
+## Reach & impact 
+* Published in [*American Journal of Public Health*](https://doi.org/10.2105/AJPH.2019.305369)
+* Cited in June Medical v. Gee Amicus Brief to the Supreme Court of the United States
+* Media coverage: *CNN, Vice, Reuters, NBC News, The Dallas Morning News*
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+## About the study
+**Study design**   
+We examined requests from US residents to the online telemedicine abortion service Women on Web (WoW) between October 2017-August 2018. We calculated the population-adjusted rate of requests by state and examined the demographics, clinical characteristics, and motivations of those seeking services, comparing those in states with hostile versus supportive abortion policy climates
+
+**Findings**  
+Over 10 months, WoW received 6022 requests from US residents; 76% from hostile states. Mississippi had the highest rate of requests (24.9 per 100 000 women of reproductive age). In both hostile and supportive states, a majority (60%) reported a combination of barriers to clinic access and preferences for self-management. Cost was the most common barrier (71% in hostile states; 63% in supportive states) and privacy was the most common preference (49% in both hostile and supportive states).
+
+
