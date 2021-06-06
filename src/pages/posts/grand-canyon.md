@@ -45,14 +45,12 @@ template: post
 
 Map Showing Density of Requests for Abortion Medications to Women on Web by State of Residence: United States; October 15, 2017–August 15, 2018
 
- 
 >Demand for self-managed medication abortion through online telemedicine is prevalent in the United States. There is a public health justification to make these abortions as safe, effective, and supported as possible. 
 
 ## Reach & impact 
 * Published in [*American Journal of Public Health*](https://doi.org/10.2105/AJPH.2019.305369)
 * Cited in June Medical v. Gee Amicus Brief to the Supreme Court of the United States
 * Media coverage: *CNN, Vice, Reuters, NBC News, The Dallas Morning News*
-
 
 ## About the study
 **Study design**   
