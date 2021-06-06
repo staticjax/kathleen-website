@@ -9,8 +9,8 @@ content_img_alt: "Woman in India wearing a sari, looking at her mobile phone "
 excerpt: ""
 seo:
   type: stackbit_page_meta
-  title: Fragments of Iceland
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  title: ""
+  description: ""
   extra:
     - name: og:type
       value: article
@@ -43,7 +43,7 @@ Photo by [World Bank Collection](https://www.flickr.com/photos/worldbank/3492673
 
 Published in [Contraception](https://doi.org/10.1016/j.contraception.2019.08.005) 
 
-> Iceland, I'm in love with that country, the people are incredible. - Kit Harington
+> Inclusion of abortion-related questions in a large-scale, social attitudes phone survey is a feasible option for assessing public awareness of medical abortion in India.
 
 **About the study**
 In 2018, we conducted a mobile phone survey with 3455 married men and women in Bihar and Maharashtra, two of India’s most populous states. As part of a broader survey on social inequality, welfare programs, and health, we asked respondents about their awareness of medical abortion and whether they (or their wife) had ever had a medical abortion.
