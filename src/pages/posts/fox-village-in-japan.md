@@ -1,63 +1,47 @@
 ---
-title: Fox Village In Japan
-subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
-date: '2018-01-11'
-thumb_img_path: images/5.jpg
-thumb_img_alt: A red fox in a rocky forest
-content_img_path: images/5.jpg
-content_img_alt: A red fox in a rocky forest
-excerpt: >-
-  Miyagi Zao Fox Village, aka Kitsune Mura, is a popular tourist attraction
-  situated in Shiroishi, Miyagi it based in the Miyagi Zao mountains. Visitors
-  can visit a village where there is a vast population of foxes.
+title: Sibling Mortality and Fertility Ideals from the High-Mortality Context of Peru
+subtitle: ""
+date: 2020-03-31T05:00:00.000Z
+thumb_img_path: /images/peru_siblings_unsplash.jpg
+thumb_img_alt: "Two Peruvian women walking down a street "
+content_img_path: /images/peru_siblings_unsplash.jpg
+content_img_alt: "Two Peruvian women walking down a street "
+excerpt: ""
 seo:
   type: stackbit_page_meta
-  title: Fox Village In Japan
-  description: >-
-    Apparently, Japan is covered in magical and irresistibly cute animal
-    sanctuaries.
+  title: ""
+  description: ""
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: article
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: Fox Village In Japan
       keyName: property
-    - name: 'og:description'
-      value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
+    - name: og:description
+      value: Apparently, Japan is covered in magical and irresistibly cute animal
         sanctuaries.
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: images/5.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: Fox Village In Japan
-    - name: 'twitter:description'
-      value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
+    - name: twitter:description
+      value: Apparently, Japan is covered in magical and irresistibly cute animal
         sanctuaries.
-    - name: 'twitter:image'
+    - name: twitter:image
       value: images/5.jpg
       relativeUrl: true
 template: post
 ---
 
-Photo by [Katerina Bartosova.](https://unsplash.com/photos/SAfJ1eTBeyk)
+Photo by [Persnikety Prints](https://unsplash.com/photos/hNPX9p95CGc) 
+> 
+## About the study 
+Published in [*Population Studies*](https://doi.org/10.1080/00324728.2020.1737188) 
 
-**Fox Village** in hac habitasse platea dictumst. Nullam vehicula justo in libero fermentum, sed tincidunt mi ultrices. Nulla id nunc a ipsum faucibus feugiat ac eu dui. Cras sollicitudin viverra justo, ut aliquet nisl vestibulum eu. In hac habitasse platea dictumst. Quisque sit amet mollis enim. Nulla facilisi. Maecenas sed facilisis metus, volutpat maximus lacus. Duis magna odio, congue dictum nulla id, elementum hendrerit ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
->The fox never found a better messenger than himself.
-
-Donec neque lorem, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat. Maecenas pretium velit faucibus, porttitor lacus eu, eleifend sapien. In hac habitasse platea dictumst. Pellentesque nisi nisl, consectetur a accumsan sit amet, finibus vel nibh. Vivamus aliquet urna non turpis vehicula maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis ege
-
->The fox changes his fur but not his habits.
-
-Suspendisse sit amet purus a eros dignissim commodo ut a erat. Maecenas pretium velit faucibus, porttitor lacus eu, eleifend sapien. In hac habitasse platea dictumst. Pellentesque nisi nisl, consectetur a accumsan sit amet, finibus vel nibh. Vivamus aliquet urna non turpis vehicula maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis ege.
-
-In hac habitasse platea dictumst. Nullam vehicula justo in libero fermentum, sed tincidunt mi ultrices. Nulla id nunc a ipsum faucibus feugiat ac eu dui. Cras sollicitudin viverra justo, ut aliquet nisl vestibulum eu. In hac habitasse platea dictumst. Quisque sit amet mollis enim. Nulla facilisi. Maecenas sed facilisis metus, volutpat maximus lacus. Duis magna odio, congue dictum nulla id, elementum hendrerit ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+**Abstract** Despite demographers’ long-standing preoccupation with the effects of child mortality on women’s fertility desires, scholars continue to know little about the consequences of other pervasive mortality exposures. We use nationally representative data from the high-mortality context of Peru to examine whether the desire to have a(nother) child varies as a function of sibling loss and to assess heterogeneity in this association by women’s current number of children and a range of conditions related to siblings’ deaths. Women who have experienced sibling bereavement and have two or more children report higher odds of desiring another child. These effects are not contingent on the age or sex of the deceased sibling but are only significant if the sibling died during the respondent’s lifetime (not before). These findings highlight the theoretical and empirical import of investigating the relationship between fertility desires and a wider range of familial mortality exposures beyond own child mortality.
