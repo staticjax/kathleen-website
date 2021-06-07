@@ -1,73 +1,60 @@
 ---
-title: Basic Rules For Walking In The Mountains
-date: '2018-01-09'
-thumb_img_path: images/6.jpg
-thumb_img_alt: Hikers on the trail
-content_img_path: images/6.jpg
-content_img_alt: Hikers on the trail
-excerpt: >-
-  Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
-  as such. This specifically refers to difficult walking through dense forest,
-  undergrowth, or bushes, where forward progress requires pushing vegetation
-  aside.
+title: Improving Assessment of Demand for Postpartum Tubal Ligation among
+  Publicly Insured Women in Texas
+date: 2021-05-25T05:00:00.000Z
+thumb_img_path: /images/rope-knot_steri_unsplash.jpg
+thumb_img_alt: Rope tied in a knot
+content_img_path: /images/rope-knot_steri_unsplash.jpg
+content_img_alt: Rope tied in a knot
+excerpt: ""
 seo:
   type: stackbit_page_meta
-  title: Basic Rules For Walking In The Mountains
-  description: >-
-    Hiking refers to difficult walking through dense forest, undergrowth, or
-    bushes.
+  title: ""
+  description: ""
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: article
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: Basic Rules For Walking In The Mountains
       keyName: property
-    - name: 'og:description'
-      value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
+    - name: og:description
+      value: Hiking refers to difficult walking through dense forest, undergrowth, or
         bushes.
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: images/6.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: Basic Rules For Walking In The Mountains
-    - name: 'twitter:description'
-      value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
+    - name: twitter:description
+      value: Hiking refers to difficult walking through dense forest, undergrowth, or
         bushes.
-    - name: 'twitter:image'
+    - name: twitter:image
       value: images/6.jpg
       relativeUrl: true
 template: post
 ---
 
-Photo by [David Marcu.](https://unsplash.com/photos/wcHCzgo0_mQ)
+Photo by <a href="https://unsplash.com/@onderortel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Önder Örtel</a> on 
+  
+Published in [*Contraception*](https://doi.org/10.1016/j.contraception.2021.05.009). 
 
-In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
+> Estimates of unmet demand for postpartum tubal ligation based on clinical records and consent forms likely underestimate desire for permanent contraception. Among low-income women in Texas, those with unmet demand for postpartum tubal ligation require improved access to effective contraception. 
 
-Hiking can sometimes involves bushwhacking and hiking is sometimes referred to as such. This specifically refers to difficult walking through dense forest, undergrowth, or bushes, where forward progress requires pushing vegetation aside. In extreme cases of bushwhacking, where the vegetation is so dense that human passage is impeded, a machete is used to clear a pathway. The Australian term bushwalking refers to both on and off-trail hiking. Common terms for hiking used by [New Zealanders](https://en.wikipedia.org/wiki/New_Zealand) are tramping (particularly for overnight and longer trips), walking or bushwalking. Trekking is the preferred word used to describe multi-day hiking in the mountainous regions of India, Pakistan, Nepal, North America, South America, Iran and in the highlands of East Africa. Hiking a long-distance trail from end-to-end is also referred to as trekking and as thru-hiking in some places. In North America, multi-day hikes, usually with camping, are referred to as [backpacking](https://en.wikipedia.org/wiki/Backpacking_(wilderness)).
+## About the study   
+**Objective:** To assess an alternative method for estimating demand for postpartum tubal ligation and evaluate reproductive trajectories of low-income women who did not obtain a desired procedure. 
 
-## Long Distance Hiking
+**Study Design:** In a two-year cohort study of 1,700 publicly insured women who delivered at eight hospitals in Texas, we identified those who had an unmet demand for tubal ligation prior to discharge from the hospital. We classified unmet demand as explicit or prompted based on survey questions that included a prompt regarding whether the respondent would like to have had a tubal ligation at the time of delivery. We assessed persistence of demand for permanent contraception, contraceptive use, and repeat pregnancies among all study participants who wanted but did not get a postpartum procedure.
 
-Frequently nowadays long distance hikes (walking tours) are undertaken along long distance paths, including the National Trails in England and Wales, the National Trail System in the USA and The Grande Randonnée (France), Grote Routepaden, or Lange-afstand-wandelpaden (Holland), Grande Rota (Portugal), Gran Recorrido (Spain) is a network of long-distance footpaths in Europe, mostly in France, Belgium, the Netherlands and Spain. There are extensive networks in other European countries of long distance trails, as well as in Canada, Australia, New Zealand, Nepal, and to a lesser extent other Asiatic countries, like Turkey, Israel, and Jordan. In the Alps of Austria, Slovenia, Switzerland, Germany, France, and Italy walking tours are often made from 'hut-to-hut', using an extensive system of mountain huts.
 
-In the late 20th-century there has been a proliferation of official and unofficial long distance routes, which mean that hikers now are more likely to refer to using a long distance way (Britain), trail (USA), The Grande Randonnée (France), etc., than setting out on a walking tour. Early examples of long distance paths, include the Appalachian Trail in the USA and the Pennine Way in Britain. Pilgrimage routes are now treated, by some walkers, as long distance routes, and the route taken by the British National Trail the North Downs Way closely follows that of the Pilgrims' Way to Canterbury. Hiking times can be estimated by Naismith's rule or Tobler's hiking function.
+**Results:** Some 426 women desired a postpartum tubal ligation; 219 (51%) obtained one prior to discharge. Among the 207 participants with unmet demand, 62 (30%) expressed an explicit preference for the procedure, while 145 (70%) were identified from the prompt. Most with unmet demand still wanted permanent contraception three months after delivery (156/184), but only 23 had obtained interval procedures. By 18 months, the probability of a woman with unmet demand conceiving a pregnancy that she would likely carry to term was 12.5% (95% C.I.: 8.3% - 18.5%).
 
-## Equipment
 
-The equipment required for hiking depends on the length of the hike, but day hikers generally carry at least water, food, a map, and rain-proof gear. Hikers usually wear sturdy hiking boots for mountain walking and backpacking, as protection from the rough terrain, as well as providing increased stability. The Mountaineers club recommends a list of "Ten Essentials" equipment for hiking, including a compass, sunglasses, sunscreen, a flashlight, a first aid kit, a fire starter, and a knife. Other groups recommend items such as hat, gloves, insect repellent, and an emergency blanket. A GPS navigation device can also be helpful and route cards may be used as a guide.
 
-> Returning home is the most difficult part of long-distance hiking; You have grown outside the puzzle and your piece no longer fits. ― Cindy Ross
+**Conclusion:** The majority of unmet demand for postpartum tubal ligation among publicly insured women in Texas was uncovered via a prompt and would not have been evident in clinical records or from consent forms. Women unable to obtain a desired procedure had a substantial chance of pregnancy within 18 months after delivery.
+ 
 
-Proponents of ultralight backpacking argue that long lists of required items for multi-day hikes increases pack weight, and hence fatigue and the chance of injury. Instead, they recommend reducing pack weight, in order to make hiking long distances easier. Even the use of hiking boots on long-distances hikes is controversial among ultralight hikers, because of their weight.
-
-## Environmental Impact
-
-Natural environments are often fragile, and may be accidentally damaged, especially when a large number of hikers are involved. For example, years of gathering wood can strip an alpine area of valuable nutrients. and some species, such as martens or bighorn sheep, are very sensitive to the presence of humans, especially around mating season. Generally, protected areas such as parks have regulations in place to protect the environment, so as to minimize such impact. Such regulations include banning wood fires, restricting camping to established camp sites, disposing or packing out faecal matter, and imposing a quota on the number of hikers. Many hikers espouse the philosophy of Leave No Trace, following strict practices on dealing with food waste, food packaging, and other impact on the environment.
-
-Human waste is often a major source of environmental impact from hiking, and can contaminate the watershed and make other hikers ill. 'Catholes' dug 10 to 25 cm (4 to 10 inches) deep, depending on local soil composition and covered after use, at least 60 m (200 feet) away from water sources and trails, are recommended to reduce the risk of bacterial contamination. [Source](https://en.wikipedia.org/wiki/Hiking)
