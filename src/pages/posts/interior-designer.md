@@ -2,19 +2,18 @@
 title: "The Changing Landscape of Abortion Care: Embodied Experiences of
   Structural Stigma in the Republic of Ireland and Northern Ireland"
 subtitle: ""
-date: 2017-03-26
-thumb_img_path: images/1.jpg
-thumb_img_alt: A wooden table and white chairs
-excerpt: Interior design is “the art or process of designing the interior, often
-  including the exterior, of a room or building”. An interior designer is
-  someone who coordinates and manages such projects. Interior design is a
-  multifaceted profession that includes conceptual development, communicating
-  with the stakeholders of a project and the management and execution of the
-  design.
+date: 2020-01-06T06:00:00.000Z
+thumb_img_path: /images/ni_abortionismurder.jpg
+thumb_img_alt: Person walks down a street in Northern Ireland with a sign in the
+  shop window that says "Abortion is murder"
+content_img_path: /images/ni_abortionismurder.jpg
+content_img_alt: Person walks down a street in Northern Ireland with a sign in
+  the shop window that says "Abortion is murder"
+excerpt: ""
 seo:
   type: stackbit_page_meta
-  title: How To Choose An Interior Designer
-  description: Interior design is “the art or process of designing the interior
+  title: ""
+  description: ""
   extra:
     - name: og:type
       value: article
@@ -40,7 +39,7 @@ seo:
       relativeUrl: true
 template: post
 ---
-Photo by []()
+Photo by [Allen LEONARD](https://www.flickr.com/photos/mrulster/49935507627/in/gallery-193145969@N07-72157719330031999/)
 
 Published in [*Social Science and Medicine*](https://doi.org/10.1016/j.socscimed.2019.112686) 
 
