@@ -1,38 +1,33 @@
 ---
-title: Data
-subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+title: students
+subtitle: ""
 seo:
   type: stackbit_page_meta
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: Theme Style Guide
       keyName: property
-    - name: 'og:description'
-      value: >-
-        A reference for suggested typographic treatment and styles for your
+    - name: og:description
+      value: A reference for suggested typographic treatment and styles for your
         content
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: images/1.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: Theme Style Guide
-    - name: 'twitter:description'
-      value: >-
-        A reference for suggested typographic treatment and styles for your
+    - name: twitter:description
+      value: A reference for suggested typographic treatment and styles for your
         content
-    - name: 'twitter:image'
+    - name: twitter:image
       value: images/1.jpg
       relativeUrl: true
 template: page
