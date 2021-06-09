@@ -1,5 +1,5 @@
 ---
-title: research
+title: Research by Kathleen Broussard
 seo:
   type: stackbit_page_meta
   title: research
