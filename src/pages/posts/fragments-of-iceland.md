@@ -37,7 +37,7 @@ template: post
 
 Photo by [World Bank Collection](https://www.flickr.com/photos/worldbank/3492673512/)
 
-Published in [*Contraception*](https://doi.org/10.1016/j.contraception.2019.08.005) 
+<img src="https://images.app.goo.gl/hkqkksM59qjN2joFA" alt = "Contraception Journal front cover">  Published in [*Contraception*](https://doi.org/10.1016/j.contraception.2019.08.005) 
 
 > Inclusion of abortion-related questions in a large-scale, social attitudes phone survey is a feasible option for assessing public awareness of medical abortion in India.
 
