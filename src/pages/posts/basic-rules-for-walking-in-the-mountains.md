@@ -2,10 +2,10 @@
 title: Improving Assessment of Demand for Postpartum Tubal Ligation among
   Publicly Insured Women in Texas
 date: 2021-05-25T05:00:00.000Z
-thumb_img_path: /images/rope-knot_steri_unsplash.jpg
-thumb_img_alt: Rope tied in a knot
-content_img_path: /images/rope-knot_steri_unsplash.jpg
-content_img_alt: Rope tied in a knot
+thumb_img_path: /images/doctor_counseling.png
+thumb_img_alt: Doctor taking notes while consulting with a female patient
+content_img_path: /images/doctor_counseling.png
+content_img_alt: Doctor taking notes while consulting with a female patient
 excerpt: ""
 seo:
   type: stackbit_page_meta
