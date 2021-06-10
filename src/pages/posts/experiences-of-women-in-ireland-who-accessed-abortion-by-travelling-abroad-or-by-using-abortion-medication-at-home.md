@@ -66,4 +66,12 @@ seek abortion online or their experiences finding medications and information.
 
 In January–June 2017, anonymous in-depth interviews were conducted with 32 people from 20 states who sought abortion medications online (30 women and two men seeking medications for their partners). Participants were asked about their (or their partners’) motivations for considering self-managed abortion, the sources of medications they identified and any other methods they considered. 
 
-## Findings & illustrative quotes
+## Findings 
+
+ (1) Self-managing a medical abortion at home using online telemedicine can be a preference over travelling abroad to access abortion services
+
+(2) Regardless of the pathway chosen, women experience a lack of pre- and post-abortion support in the Irish healthcare system
+
+(3) Feelings of desperation while searching for safe abortion care can lead to considering or attempting dangerous methods
+
+(4) Irish abortion law and attitudes have impacts beyond physical health considerations, engendering shame and stigma.
