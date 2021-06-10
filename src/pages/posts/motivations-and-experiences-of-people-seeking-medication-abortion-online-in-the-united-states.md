@@ -53,6 +53,8 @@ template: post
 * Cited in June Medical v. Gee Amicus Brief to the U.S. Supreme Court
 * Media coverage: The New York Times, the Atlantic, PBS Frontline, Los Angeles Times, Wired, among others 
 
+## About the study 
+We conducted anonymous in-depth interviews with 32 people from 20 states who sought abortion medications online. Participants were asked about their (or their partners’) motivations for considering self-managed abortion, the sources of medications they identified and any other methods they considered.
 ## Findings & illustrative quotes
 
 * **Seeking abortion medications online can be a response to clinic access barriers in states with restrictive abortion laws and those without** 
@@ -69,8 +71,7 @@ Janice, 29 years old, Montana
 
 * **Online options offer either information or medications, but not both** 
 
-*I had no trouble finding information I trusted about what the pills do and how to use them. Those sites also had lots about how you know if something’s
-  > not right during the process. But none of these sites could give me the pills!* 
+*I had no trouble finding information I trusted about what the pills do and how to use them. Those sites also had lots about how you know if something’s not right during the process. But none of these sites could give me the pills!* 
 
 Lorna, 22 years old, South Dakota 
 
@@ -80,4 +81,3 @@ Lorna, 22 years old, South Dakota
 
 Gloria, 29 years old, South Carolina 
 
-<!--EndFragment-->
