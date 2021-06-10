@@ -50,6 +50,12 @@
       },
       {
         "type": "action",
+        "label": "Press",
+        "url": "/press/",
+        "style": "link"
+      },
+      {
+        "type": "action",
         "label": "Contact",
         "url": "/contact/",
         "style": "link"
@@ -66,5 +72,6 @@
   "footer": {
     "type": "footer",
     "content": "&copy; Kathleen Broussard. All rights reserved.</a>"
-  }
+  },
+  "favicon": "images/favicon.ico"
 }

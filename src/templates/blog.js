@@ -19,7 +19,7 @@ export const query = graphql`
 export default class Blog extends React.Component {
   render() {
     let display_posts = _.orderBy(
-      getPages(this.props.pageContext.pages, '/posts'),
+      getPages(this.props.pageContext.pages, '/research'),
       'frontmatter.date',
       'desc'
     )
