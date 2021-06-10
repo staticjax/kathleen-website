@@ -9,7 +9,7 @@ export default class SectionPosts extends React.Component {
   render() {
     let section = _.get(this.props, 'section', null)
     let display_posts = _.orderBy(
-      getPages(this.props.pageContext.pages, '/posts'),
+      getPages(this.props.pageContext.pages, '/research'),
       'frontmatter.date',
       'desc'
     )

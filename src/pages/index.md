@@ -5,8 +5,7 @@ sections:
   - type: section_hero
     title: Kathleen Broussard
     section_id: hero
-    content: Hi, I'm a PhD Candidate at the University of Texas at Austin. I study
-      reproduction, medicine, population health, and social policy.
+    content: Hi, I'm a PhD Candidate at the University of Texas at Austin. I study reproduction, medicine, population health, and social policy.
   - type: section_content
     title: About
     section_id: about
@@ -34,7 +33,8 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Kathleen Broussard
-  description: The preview of the Fresh theme
+  description: >-
+    I'm a PhD Candidate at the University of Texas at Austin. I study reproduction, medicine, population health, and social policy.
   extra:
     - name: og:type
       value: website
@@ -43,10 +43,11 @@ seo:
       value: Kathleen Broussard
       keyName: property
     - name: og:description
-      value: The preview of the Fresh theme
+      value: >-
+        I'm a PhD Candidate at the University of Texas at Austin. I study reproduction, medicine, population health, and social policy.
       keyName: property
     - name: og:image
-      value: images/4.jpg
+      value: images/kathleenbroussard.jpg
       keyName: property
       relativeUrl: true
     - name: twitter:card
@@ -54,9 +55,10 @@ seo:
     - name: twitter:title
       value: Kathleen Broussard
     - name: twitter:description
-      value: The preview of the Fresh theme
+      value: >-
+        I'm a PhD Candidate at the University of Texas at Austin. I study reproduction, medicine, population health, and social policy.
     - name: twitter:image
-      value: images/4.jpg
+      value: images/kathleenbroussard.jpg
       relativeUrl: true
 template: advanced
 ---
