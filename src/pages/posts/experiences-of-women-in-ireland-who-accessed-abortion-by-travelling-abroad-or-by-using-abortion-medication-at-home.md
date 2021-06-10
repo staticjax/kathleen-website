@@ -49,15 +49,13 @@ template: post
 ---
 ## Reach & impact
 
- 
-
-![Journal cover of BMJ SRH, July 2018, Vol 44, issue 3 ](/images/bmjsrh_ireland.gif)
-
-Published in *[BMJ Sexual and Reproductive Health](https://srh.bmj.com/content/44/3/181)*
-
-• In May 2018, The Republic of Ireland held a referendum to repeal the Eighth Amendment to the Irish Constitution, which guaranteed fetuses the same right to life as pregnant people, essentially outlawing abortion in the country. In October 2017, our research team, Project SANA, was invited to address the Irish Parliamentary Committee (the Oireachtas Committee). The Committee recommended allowing abortion upon request up to 12 weeks gestation, and cited the evidence provided by Project SANA a pivotal part on the decision.
+ • In May 2018, The Republic of Ireland held a referendum to repeal the Eighth Amendment to the Irish Constitution, which guaranteed fetuses the same right to life as pregnant people, essentially outlawing abortion in the country. In October 2017, our research team, Project SANA, was invited to address the Irish Parliamentary Committee (the Oireachtas Committee). The Committee recommended allowing abortion upon request up to 12 weeks gestation, and cited the evidence provided by Project SANA a pivotal part on the decision.
 
 • Media coverage: *[The Irish Times](https://www.thetimes.co.uk/article/women-buying-illegal-pills-swayed-abortion-decision-tvp2kffst)*, *[The Guardian](https://www.theguardian.com/world/2016/oct/17/home-abortion-kits-women-ireland-study)*
+
+* Published in *[BMJ Sexual and Reproductive Health](https://srh.bmj.com/content/44/3/181)*
+
+![Journal cover of BMJ SRH, July 2018, Vol 44, issue 3 ](/images/bmjsrh_ireland.jpg)
 
 ## About the study
 
