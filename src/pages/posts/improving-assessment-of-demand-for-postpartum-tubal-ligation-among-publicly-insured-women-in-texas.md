@@ -6,10 +6,10 @@ thumb_img_path: /images/doctor_counseling.png
 thumb_img_alt: Doctor taking notes while consulting with a female patient
 content_img_path: /images/doctor_counseling.png
 content_img_alt: Doctor taking notes while consulting with a female patient
-excerpt: "> Estimates of unmet demand for postpartum tubal ligation based on
+excerpt: Estimates of unmet demand for postpartum tubal ligation based on
   clinical records and consent forms likely underestimate desire for permanent
   contraception. Among low-income women in Texas, those with unmet demand for
-  postpartum tubal ligation require improved access to effective contraception"
+  postpartum tubal ligation require improved access to effective contraception
 seo:
   type: stackbit_page_meta
   title: ""
