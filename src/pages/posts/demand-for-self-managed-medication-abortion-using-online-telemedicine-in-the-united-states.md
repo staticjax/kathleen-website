@@ -10,10 +10,9 @@ content_img_path: /images/ajph_2019_demand-for-smma.png
 content_img_alt: "Map Showing Density of Requests for Abortion Medications to
   Women on Web by State of Residence: United States; October 15, 2017–August 15,
   2018"
-excerpt: "> Demand for self-managed medication abortion through online
-  telemedicine is prevalent in the United States. There is a public health
-  justification to make these abortions as safe, effective, and supported as
-  possible"
+excerpt: Demand for self-managed medication abortion through online telemedicine
+  is prevalent in the United States. There is a public health justification to
+  make these abortions as safe, effective, and supported as possible
 seo:
   type: stackbit_page_meta
   title: ""
