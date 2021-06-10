@@ -1,12 +1,12 @@
 ---
-title: Kathleen Broussard
+title: about
 subtitle: "PhD Candidate, Sociology "
 img_path: /images/bw_snipped.png
 img_alt: Photograph of Kathleen Broussard in black and white
 seo:
   type: stackbit_page_meta
-  title: about kathleen broussard
-  description: about
+  title: Kathleen Broussard
+  description: ""
   extra:
     - name: og:type
       value: website
@@ -32,8 +32,6 @@ seo:
       relativeUrl: true
 template: page
 ---
-## Background
-
 I will soon complete my PhD in Sociology with a specialization in Demography at the University of Texas at Austin.
 
 For my dissertation, I designed and implemented an original survey, conducted in-depth interviews, and analyzed longitudinal data to explore people’s attitudes and decision-making processes surrounding reproduction and formal healthcare. Because I am interested in how broader social structures shape people's experiences of and attitudes towards medicine, I take a transnational approach, exploring women's lived experience across social and political contexts in the U.S., Latin America, Europe, and Sub-Saharan Africa.
