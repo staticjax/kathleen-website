@@ -7,7 +7,11 @@ thumb_img_path: /images/wow_hand_mouth_pills.png
 thumb_img_alt: ""
 content_img_path: /images/wow_hand_mouth_pills.png
 content_img_alt: ""
-excerpt: ""
+excerpt: "> Considering or attempting self-managed abortion may be part of the
+  pathway to seeking in-clinic care, particularly among those experiencing
+  access barriers. However, considerable interest in medication self-management
+  as an alternative to the clinic also suggests a demand for more autonomous
+  abortion care options."
 seo:
   type: stackbit_page_meta
   title: Knowledge, interest, and motivations surrounding self-managed medication
@@ -38,28 +42,24 @@ seo:
       relativeUrl: true
 template: post
 ---
-
 Photo by [Women on Web](https://www.womenonweb.org/en/)
 
-> Considering or attempting self-managed abortion may be part of the pathway to seeking in-clinic care, particularly among those experiencing access barriers. However, considerable interest in medication self-management as an alternative to the clinic also suggests a demand for more autonomous abortion care options.
+Published open access at *[American Journal of Obstetrics & Gynecology](https://doi.org/10.1016/j.ajog.2020.02.026)* 
 
-Published open access at [*American Journal of Obstetrics & Gynecology*](https://doi.org/10.1016/j.ajog.2020.02.026) 
+![](/images/ajog_3txclinics_vol223_iss2.jpg)
 
+## About the study
 
-## About the study 
 We examined patients’ knowledge of, interest in, and experience with self-managed medication abortion before presenting to one of 3 Texas clinics. We characterized the clinic- and person-level factors associated with these measures. 
 
 ## Key findings
 
 * Of patients at 3 Texas clinics, 30% had prior knowledge of medications that
-could be used to self-manage an abortion. Among these, 28% had considered
-medication self-management before attending the clinic.
+  could be used to self-manage an abortion. Among these, 28% had considered
+  medication self-management before attending the clinic.
 * In all, 13% of patients sought or attempted any method of self-management
-before attending the clinic.
+  before attending the clinic.
 * Those experiencing clinic-access barriers were more likely to have considered
-or attempted self-management.
+  or attempted self-management.
 * Among patients without prior knowledge of medication self-management,
-39% expressed interest in this option as an alternative to in-clinic care.
-
-
-
+  39% expressed interest in this option as an alternative to in-clinic care.
