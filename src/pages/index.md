@@ -10,16 +10,14 @@ sections:
     title: About
     section_id: about
     content: >-
-      Hi there! I'm Kathleen, a PhD candidate in Sociology at the University of
-      Texas at Austin. My research lies at the intersection of reproductive
-      health, medicine, and social policy. I am especially interested in the
-      ways healthcare, medical technologies, and stigma get “under the skin”— As
-      a reproductive health researcher, my overarching research agenda is
-      motivated by the following question: How does formal healthcare shape the
-      meaning and individual experience of sex, pregnancy, and childbearing? 
+      Hi there! I'm Kathleen, and I am a PhD candidate in Sociology at the
+      University of Texas at Austin. My research lies at the intersection of
+      reproductive health, medicine, and social policy. I am interested in the
+      ways healthcare, medical technologies, and stigma get “under the skin” to
+      shape the meaning and experience of sex, pregnancy, and childbearing. 
 
 
-      My work has been funded by the National Institute of Child Health and Human Development and the Society of Family planning, and has been published in *Social Science and Medicine, Population Studies, Contraception, American Journal of Public Health, Perspectives on Sexual and Reproductive Health, AJOG,* and *BMJ Sexual and Reproductive Health.* 
+      My work has been funded by the National Institute of Child Health and Human Development and the Society of Family Planning. You can find my published research in *Social Science and Medicine, Population Studies, Contraception, American Journal of Public Health, Perspectives on Sexual and Reproductive Health, AJOG,* and *BMJ Sexual and Reproductive Health.* 
 
 
       Outside of academia, my research has also been featured in major news outlets, including The *New York Times* and *The Atlantic*.
