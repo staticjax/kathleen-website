@@ -7,11 +7,11 @@ thumb_img_path: /images/wow_hand_mouth_pills.png
 thumb_img_alt: ""
 content_img_path: /images/wow_hand_mouth_pills.png
 content_img_alt: ""
-excerpt: "> Considering or attempting self-managed abortion may be part of the
+excerpt: Considering or attempting self-managed abortion may be part of the
   pathway to seeking in-clinic care, particularly among those experiencing
   access barriers. However, considerable interest in medication self-management
   as an alternative to the clinic also suggests a demand for more autonomous
-  abortion care options."
+  abortion care options.
 seo:
   type: stackbit_page_meta
   title: Knowledge, interest, and motivations surrounding self-managed medication
