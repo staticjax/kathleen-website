@@ -7,7 +7,11 @@ thumb_img_path: /images/northern-ireland_personmountains.jpg
 thumb_img_alt: Person standing in open field in front of mountains in Northern Ireland
 content_img_path: /images/northern-ireland_personmountains.jpg
 content_img_alt: Person standing in open field in front of mountains in Northern Ireland
-excerpt: ""
+excerpt: Northern Ireland’s abortion laws negatively affect the quality and
+  safety of women’s healthcare and can have serious implications for women’s
+  physical and emotional health. Our findings offer new perspectives for the
+  current policy debate over Northern Ireland’s abortion laws and suggest a
+  public health rationale for decriminalising abortion.
 seo:
   type: stackbit_page_meta
   title: The impact of Northern Ireland’s abortion laws on women’s abortion
