@@ -49,11 +49,18 @@ template: post
 ---
 ## Reach & impact
 
+ 
+
+![Journal cover of BMJ SRH, July 2018, Vol 44, issue 3 ](/images/bmjsrh_ireland.gif)
+
+Published in *[BMJ Sexual and Reproductive Health](https://srh.bmj.com/content/44/3/181)*
+
 • In May 2018, The Republic of Ireland held a referendum to repeal the Eighth Amendment to the Irish Constitution, which guaranteed fetuses the same right to life as pregnant people, essentially outlawing abortion in the country. In October 2017, our research team, Project SANA, was invited to address the Irish Parliamentary Committee (the Oireachtas Committee). The Committee recommended allowing abortion upon request up to 12 weeks gestation, and cited the evidence provided by Project SANA a pivotal part on the decision.
 
-• Media coverage: [*The Irish Times*](https://www.thetimes.co.uk/article/women-buying-illegal-pills-swayed-abortion-decision-tvp2kffst), [*The Guardian*](https://www.theguardian.com/world/2016/oct/17/home-abortion-kits-women-ireland-study)
+• Media coverage: *[The Irish Times](https://www.thetimes.co.uk/article/women-buying-illegal-pills-swayed-abortion-decision-tvp2kffst)*, *[The Guardian](https://www.theguardian.com/world/2016/oct/17/home-abortion-kits-women-ireland-study)*
 
-## About the study 
+## About the study
+
 State legislation restricting access to abortion in the clinic setting raises the possibility that an increasing
 number of individuals in the United States will self-manage their abortion at home. Medications sourced online represent
 a potential pathway to abortion self-management. Yet, very little is known about the reasons U.S. residents may
@@ -62,49 +69,3 @@ seek abortion online or their experiences finding medications and information.
 In January–June 2017, anonymous in-depth interviews were conducted with 32 people from 20 states who sought abortion medications online (30 women and two men seeking medications for their partners). Participants were asked about their (or their partners’) motivations for considering self-managed abortion, the sources of medications they identified and any other methods they considered. 
 
 ## Findings & illustrative quotes
-The analysis revealed four key themes:  
-
-**1) Seeking abortion medications online can be a response to clinic access barriers both in states with and in ones without restrictive abortion laws**  
-
-*“I found it really, really difficult to get information on
-what clinics provide. It’s hard having to call people directly
-and ask ‘Do you guys offer this?’ because there’s so much
-stigma attached to it. It would be so much easier if abortion
-were listed, just like every other service they offer in the
-clinic. So, I Googled ‘medical abortion.’ I came across the
-site [of the online telemedicine service], and it seemed like
-such a cool service where they would mail the medication.”* 
-
-*Marianela, 32 years old, California* 
-
-**2) Self-managed abortion can be a preference over clinical care**  
-
-*“I wanted to stay at home with my children, and I read
-online there were pills now available that you can take at
-home if you’re quite early on. It would have been a much
-easier process, doing it at home, in the comfort of my own
-home. If they could have mailed me those pills, I could
-have done the abortion safely at home.”*
-
-*Anita, 38 years old, Texas* 
-
-**3) Online options offer either information or medications, but not both**  
-
-*“I had no trouble finding information I trusted about
-what the pills do and how to use them. Those [online telemedicine]
-sites also had lots about how you know if something’s
-not right during the process. But none of these sites
-could give me the pills!”* 
-
-*Lorna, 22 years old, South Dakota*  
-
-**4) The lack of trusted online options can delay care and lead to consideration of ineffective or unsafe alternatives** 
-
-*“I was really desperate. I heard you could try drinking
-gin. I found YouTube videos that tell you how to do it with
-a hanger. Once he started explaining what you’re literally
-doing, I was shocked. I’m not gonna lie—it made me cry.
-Because if you’re young and you’re desperate, it’s like, you
-live in this space where you will go that extreme.”*  
-
-*Jovita, 23 years old, Illinois* 
