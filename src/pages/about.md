@@ -1,13 +1,13 @@
 ---
 title: about
-subtitle: 'PhD Candidate, Sociology '
-img_path: images/kathleenbroussard.jpg
+subtitle: "PhD Candidate, Sociology "
+img_path: /images/bw_snipped.png
 img_alt: Photograph of Kathleen Broussard in black and white
 seo:
   type: stackbit_page_meta
   title: Kathleen Broussard
-  description: >-
-    I'm a PhD Candidate at the University of Texas at Austin. I study reproduction, medicine, population health, and social policy.
+  description: I'm a PhD Candidate at the University of Texas at Austin. I study
+    reproduction, medicine, population health, and social policy.
   extra:
     - name: og:type
       value: website
@@ -16,8 +16,8 @@ seo:
       value: About Kathleen Broussard
       keyName: property
     - name: og:description
-      value: >-
-        I'm a PhD Candidate at the University of Texas at Austin. I study reproduction, medicine, population health, and social policy.
+      value: I'm a PhD Candidate at the University of Texas at Austin. I study
+        reproduction, medicine, population health, and social policy.
       keyName: property
     - name: og:image
       value: images/kathleenbroussard.jpg
@@ -28,8 +28,8 @@ seo:
     - name: twitter:title
       value: About Kathleen Broussard
     - name: twitter:description
-      value: >-
-        I'm a PhD Candidate at the University of Texas at Austin. I study reproduction, medicine, population health, and social policy.
+      value: I'm a PhD Candidate at the University of Texas at Austin. I study
+        reproduction, medicine, population health, and social policy.
     - name: twitter:image
       value: images/kathleenbroussard.jpg
       relativeUrl: true
