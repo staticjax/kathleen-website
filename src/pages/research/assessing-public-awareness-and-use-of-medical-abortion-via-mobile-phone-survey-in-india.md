@@ -40,11 +40,11 @@ template: post
 ---
 Photo by [World Bank Collection](https://www.flickr.com/photos/worldbank/3492673512/)
 
+## About the study
+
 Published in *[Contraception](https://doi.org/10.1016/j.contraception.2019.08.005)* 
 
 ![](/images/contraception_india_vol100_iss6.jpg)
-
-## About the study
 
 In 2018, we conducted a mobile phone survey with 3455 married men and women in Bihar and Maharashtra, two of India’s most populous states. As part of a broader survey on social inequality, welfare programs, and health, we asked respondents about their awareness of medical abortion and whether they (or their wife) had ever had a medical abortion.
 
