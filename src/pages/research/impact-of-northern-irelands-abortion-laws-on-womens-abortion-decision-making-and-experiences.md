@@ -44,14 +44,15 @@ seo:
       relativeUrl: true
 template: post
 ---
-## **Reach & impact**
+## **About the study**
 
 * Published in *[BMJ Sexual and Reproductive Health](http://dx.doi.org/10.1136/bmjsrh-2018-200198)*
 * Editor’s Choice
 * Lead article 
 * Media coverage: The Guardian, BuzzFeed, Bustle, among others 
 
-  ![](/images/bmjsrh_northernireland.jpg)
+  ![](/images/bmjsrh_northernireland.jpg)  
+Between April 2017 and February 2018 we interviewed 30 women living in Northern Ireland who had sought abortion by travelling to a clinic in Great Britain or by using online telemedicine to self-manage a medication abortion at home. We interviewed women both before and after a policy change that allowed women from Northern Ireland access to free abortion services in Great Britain. 
 
 ## **Findings and illustrative quotes**
 
