@@ -43,12 +43,13 @@ template: post
 ---
 Photo by <a href="https://unsplash.com/@onderortel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Önder Örtel</a> on 
 
-Published in *[Contraception](https://doi.org/10.1016/j.contraception.2021.05.009)*
+
 
 > Estimates of unmet demand for postpartum tubal ligation based on clinical records and consent forms likely underestimate desire for permanent contraception. Among low-income women in Texas, those with unmet demand for postpartum tubal ligation require improved access to effective contraception. 
 
-![](/images/contraception_india_vol100_iss6.jpg)
+Published in *[Contraception](https://doi.org/10.1016/j.contraception.2021.05.009)*
 
+![](/images/contraception_india_vol100_iss6.jpg)
 
 
 ## About the study
