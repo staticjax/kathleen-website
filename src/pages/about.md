@@ -1,8 +1,8 @@
 ---
 title: about
 subtitle: "PhD Candidate, Sociology "
-img_path: /images/bw_snipped.png
-img_alt: Photograph of Kathleen Broussard in black and white
+img_path: /images/mauve6.jpg
+img_alt: Kathleen Broussard
 seo:
   type: stackbit_page_meta
   title: Kathleen Broussard
