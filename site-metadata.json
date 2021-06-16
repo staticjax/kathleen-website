@@ -19,6 +19,24 @@
         "style": "icon",
         "icon_class": "linkedin",
         "new_window": true
+      },
+      {
+        "url": "https://scholar.google.com/citations?user=MH1ltk0AAAAJ&hl=en",
+        "style": "icon",
+        "icon_class": "dev",
+        "new_window": true,
+        "no_follow": false,
+        "type": "action",
+        "label": "Google Scholar"
+      },
+      {
+        "url": "https://liberalarts.utexas.edu/sociology/graduate/gradstudents/profile.php?id=rkg335 ",
+        "style": "icon",
+        "icon_class": "dev",
+        "new_window": true,
+        "no_follow": false,
+        "type": "action",
+        "label": "University of Texas Profile Page"
       }
     ],
     "profile_img": "images/author.jpg",
