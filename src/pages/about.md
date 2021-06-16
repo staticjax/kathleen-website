@@ -38,7 +38,7 @@ template: page
 
 ## Kathleen Broussard
 
-I am currently a PhD candidate in Sociology with a specialization in Demography at the University of Texas at Austin.
+I am currently a PhD candidate in Sociology with a specialization in Demography at the [University of Texas at Austin](https://liberalarts.utexas.edu/sociology/graduate/gradstudents/profile.php?id=rkg335).
 
 For my dissertation, I designed and implemented an original survey, conducted in-depth interviews, and analyzed longitudinal data to explore people’s attitudes and decision-making processes surrounding reproduction and formal healthcare. I am interested in how broader social structures shape people's health outcomes and attitudes towards medicine, so I take a transnational approach, exploring women's contraceptive- and abortion-seeking pathways across   range of political contexts in the U.S., Latin America, Europe, and Sub-Saharan Africa.
 
