@@ -15,28 +15,18 @@
       {
         "type": "action",
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/kathleen-broussard/ ",
+        "url": "https://www.linkedin.com/in/kathleen-broussard/",
         "style": "icon",
         "icon_class": "linkedin",
         "new_window": true
       },
       {
+        "type": "action",
+        "label": "Google Scholar",
         "url": "https://scholar.google.com/citations?user=MH1ltk0AAAAJ&hl=en",
         "style": "icon",
-        "icon_class": "dev",
-        "new_window": true,
-        "no_follow": false,
-        "type": "action",
-        "label": "Google Scholar"
-      },
-      {
-        "url": "https://liberalarts.utexas.edu/sociology/graduate/gradstudents/profile.php?id=rkg335 ",
-        "style": "icon",
-        "icon_class": "dev",
-        "new_window": true,
-        "no_follow": false,
-        "type": "action",
-        "label": "University of Texas Profile Page"
+        "icon_class": "scholar",
+        "new_window": true
       }
     ],
     "profile_img": "images/author.jpg",
