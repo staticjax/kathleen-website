@@ -81,5 +81,6 @@
     "type": "footer",
     "content": "&copy; Kathleen Broussard. All rights reserved.</a>"
   },
-  "favicon": "images/favicon.ico"
+  "favicon": "images/favicon.ico",
+  "siteUrl": "https://kathleenbroussard.com/"
 }
