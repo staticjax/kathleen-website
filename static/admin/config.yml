@@ -347,9 +347,9 @@ collections:
                       - instagram
                       - linkedin
                       - pinterest
-                      - reddit
+                      - university
                       - twitter
-                      - vimeo
+                      - scholar
                       - youtube
                   - widget: boolean
                     name: new_window
@@ -528,9 +528,9 @@ collections:
                       - instagram
                       - linkedin
                       - pinterest
-                      - reddit
+                      - university
                       - twitter
-                      - vimeo
+                      - scholar
                       - youtube
                   - widget: boolean
                     name: new_window
@@ -611,9 +611,9 @@ collections:
                       - instagram
                       - linkedin
                       - pinterest
-                      - reddit
+                      - university
                       - twitter
-                      - vimeo
+                      - scholar
                       - youtube
                   - widget: boolean
                     name: new_window
@@ -923,15 +923,15 @@ collections:
                     required: false
                     default: dev
                     options:
-                      - email
+                      - dev
                       - facebook
                       - github
                       - instagram
                       - linkedin
                       - pinterest
-                      - reddit
+                      - university
                       - twitter
-                      - vimeo
+                      - scholar
                       - youtube
                   - widget: boolean
                     name: new_window
@@ -992,9 +992,9 @@ collections:
                       - instagram
                       - linkedin
                       - pinterest
-                      - reddit
+                      - university
                       - twitter
-                      - vimeo
+                      - scholar
                       - youtube
                   - widget: boolean
                     name: new_window
@@ -1065,9 +1065,9 @@ collections:
                       - instagram
                       - linkedin
                       - pinterest
-                      - reddit
+                      - university
                       - twitter
-                      - vimeo
+                      - scholar
                       - youtube
                   - widget: boolean
                     name: new_window
