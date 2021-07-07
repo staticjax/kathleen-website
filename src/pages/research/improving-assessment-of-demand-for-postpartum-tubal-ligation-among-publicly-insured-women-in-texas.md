@@ -41,7 +41,7 @@ seo:
       relativeUrl: true
 template: post
 ---
-Photo by <a href="https://unsplash.com/@onderortel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Önder Örtel</a> on 
+Photo by <a href="https://unsplash.com/@onderortel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Önder Örtel</a> 
 
 
 
