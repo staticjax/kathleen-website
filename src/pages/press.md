@@ -1,8 +1,8 @@
 ---
 title: press
-subtitle: ''
-img_path: ''
-img_alt: ''
+subtitle: ""
+img_path: ""
+img_alt: ""
 template: page
 ---
 
@@ -41,7 +41,7 @@ _The Guardian_ | Oct 2016
 _The Atlantic_ | July 2018  
 [Illegal Abortion Will Mean Abortion By Mail](https://www.theatlantic.com/health/archive/2018/07/after-abortion-is-illegal/565430/)
 
-_CNN_ | Nov 2018
+_CNN_ | Nov 2018  
 [Abortion pills now available by mail in US – but FDA may be investigating](https://www.cnn.com/2018/10/23/health/abortion-pills-by-mail-us-fda/index.html)
 
 _Fox News_ | Oct 2018  
