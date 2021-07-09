@@ -14,11 +14,10 @@ sections:
       University of Texas at Austin. My research lies at the intersection of
       reproductive health, medicine, and social policy. I am interested in the
       ways broader social forces, such as healthcare, medical technologies, and
-      stigma, get “under the skin” to shape the meaning and experience of
-      significant reproductive events, including abortion, pregnancy, and
-      childbearing. Currently, I am conducting a multi-method analysis of
-      women's experiences seeking abortion outside of the formal healthcare
-      system. 
+      stigma shape the meaning and experience of significant reproductive
+      events, including abortion, pregnancy, and childbearing. Currently, I am
+      conducting a multi-method analysis of women's experiences seeking abortion
+      outside of the formal healthcare system. 
 
 
       My work has been funded by the National Institute of Child Health and Human Development and the Society of Family Planning. You can find my published research in *Social Science and Medicine, Population Studies, Contraception, American Journal of Public Health, Perspectives on Sexual and Reproductive Health, AJOG,* and *BMJ Sexual and Reproductive Health.* 
