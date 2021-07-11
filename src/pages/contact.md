@@ -4,7 +4,9 @@ hide_title: false
 sections:
   - type: section_form
     section_id: contact-form
-    content: To get in touch, please use the form below.
+    content: >
+      To get in touch, please use the form below or <a
+      href="mailto:it-support@kth.se">send me an email</a>
     form_id: contactForm
     form_action: https://formspree.io/f/xnqldjnq
     form_method: POST
