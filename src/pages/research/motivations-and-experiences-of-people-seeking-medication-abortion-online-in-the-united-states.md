@@ -1,26 +1,18 @@
 ---
 title: Motivations and Experiences of People Seeking Medication Abortion Online
   in the United States
-subtitle: ""
+subtitle: "Published in Perspectives on Sexual and Reproductive Health "
 date: 2018-07-11T05:00:00.000Z
-thumb_img_path: /images/psrh.jpg
+thumb_img_path: /images/woman_computer.png
 thumb_img_alt: woman at home on laptop computer
 content_img_path: /images/woman_computer.png
 content_img_alt: woman at home on laptop computer
-excerpt: Published in Perspectives on Sexual and Reproductive Health. We
-  conducted anonymous in-depth interviews with 32 people from 20 states who
-  sought abortion medications online. Participants were asked about their (or
-  their partners’) motivations for considering self-managed abortion, the
-  sources of medications they identified and any other methods they considered.
+excerpt: Published in *Perspectives on Sexual and Reproductive Health*
 seo:
   type: stackbit_page_meta
   title: Motivations and Experiences of People Seeking Medication Abortion Online
     in the United States
-  description: We conducted anonymous in-depth interviews with 32 people from 20
-    states who sought abortion medications online. Participants were asked about
-    their (or their partners’) motivations for considering self-managed
-    abortion, the sources of medications they identified and any other methods
-    they considered.
+  description: Kathleen Broussard
   extra:
     - name: og:type
       value: article
