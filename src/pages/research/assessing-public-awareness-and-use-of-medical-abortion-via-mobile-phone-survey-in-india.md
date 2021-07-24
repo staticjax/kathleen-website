@@ -4,13 +4,10 @@ title: Assessing public awareness and use of medical abortion via mobile phone
 date: 2019-08-19T05:00:00.000Z
 thumb_img_path: /images/mobile-phone_india.jpg
 thumb_img_alt: "Woman in India wearing a sari, looking at her mobile phone "
-content_img_path: /images/mobile-phone_india.jpg
-content_img_alt: "Woman in India wearing a sari, looking at her mobile phone "
-excerpt: In 2018, we conducted a mobile phone survey with 3455 married men and
-  women in Bihar and Maharashtra, two of India’s most populous states. As part
-  of a broader survey on social inequality, welfare programs, and health, we
-  asked respondents about their awareness of medical abortion and whether they
-  (or their wife) had ever had a medical abortion.
+content_img_path: ""
+content_img_alt: ""
+excerpt: "Broussard, Kathleen, Payal Hathi, and Diane Coffey. 2019.
+  Contraception 100(6), 457-463. "
 seo:
   type: stackbit_page_meta
   title: ""
