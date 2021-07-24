@@ -4,14 +4,10 @@ subtitle: ""
 date: 2020-03-31T05:00:00.000Z
 thumb_img_path: /images/peru_siblings_unsplash_cropped.jpg
 thumb_img_alt: "Two Peruvian women walking down a street "
-content_img_path: /images/peru_siblings_unsplash_cropped.jpg
-content_img_alt: "Two Peruvian women walking down a street "
-excerpt: Despite demographers’ long-standing preoccupation with the effects of
-  child mortality on women’s fertility desires, scholars continue to know little
-  about the consequences of other pervasive mortality exposures. We use
-  nationally representative data from the high-mortality context of Peru to
-  examine whether the desire to have a(nother) child varies as a function of
-  sibling loss
+content_img_path: ""
+content_img_alt: ""
+excerpt: "Broussard, Kathleen and Abigail Weitzman. 2020. Population Studies 74
+  (2), 179-195.  "
 seo:
   type: stackbit_page_meta
   title: ""
