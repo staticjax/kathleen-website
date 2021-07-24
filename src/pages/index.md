@@ -48,8 +48,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Kathleen Broussard | PhD Candidate at the University of Texas at Austin
-  description: I'm a PhD Candidate at the University of Texas at Austin. I study
-    reproduction, medicine, population health, and social policy.
+  description: Kathleen Broussard
   extra:
     - name: og:type
       value: website
