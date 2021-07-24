@@ -10,20 +10,27 @@ sections:
     title: About
     section_id: about
     content: >-
-      Hi there! I'm Kathleen, and I am a PhD candidate in Sociology at the
-      University of Texas at Austin. My research lies at the intersection of
-      reproductive health, medicine, and social policy. I am interested in the
-      ways broader social forces, such as healthcare, medical technologies, and
-      stigma shape the meaning and experience of significant reproductive
-      events, including abortion, pregnancy, and childbearing. Currently, I am
-      conducting a multi-method analysis of women's experiences seeking abortion
-      outside of the formal healthcare system. 
+      Hi there! I'm Kathleen, and I am a PhD candidate in Sociology and the
+      Population Research Center at the University of Texas at Austin. My
+      research interests include sexual and reproductive health, fertility,
+      gender, and social policy. In my dissertation, I use both quantitative and
+      qualitative methods to investigate the individual, social, and structural
+      determinants of health-seeking behaviors. Questions that motivate my
+      research include: 
 
 
-      My work has been funded by the National Institute of Child Health and Human Development and the Society of Family Planning. You can find my published research in *Social Science and Medicine, Population Studies, Contraception, American Journal of Public Health, Perspectives on Sexual and Reproductive Health, AJOG,* and *BMJ Sexual and Reproductive Health.* 
+      * *How do healthcare and medical technologies shape the meaning and experience of pregnancy, abortion, and childbearing?* 
+
+      * *How do people's identities and beliefs influence their engagement with the formal healthcare system?* 
 
 
-      Outside of academia, my research has also been featured in major news outlets, including The *New York Times* and *The Atlantic*.
+      My sole-authored paper in *[Social Science & Medicine](https://doi.org/10.1016/j.socscimed.2019.112686)* responds to these questions through an analysis of the narratives of 68 women living in Ireland and Northern Ireland who sought abortion prior to its legalization. These women either left the country to receive clinic-based care or obtained medications through informal channels to self-manage an abortion at home. In this work, I situate self-managed abortion within the continuum of (de)medicalization and reveal the ways medical technology and healthcare provision shape individual perceptions and beliefs about pain, the fetus, method, and the environment where care is received. 
+
+
+      In support of my research, I was awarded the 2019 Emerging Scholars in Family Planning grant from the Society of Family Planning and the NICHD Pre-Doctoral Training Fellowship in Demography. I have been a research associate on three collaborative projects: the [Texas Policy Evaluation Project](https://liberalarts.utexas.edu/txpep/) (TxPEP), which evaluates the impact of reproductive health legislation; [Project SANA](https://www.projectsana.org/), a study of self-managed abortion in the United States; and [Tsogolo la Thanzi](https://tsogololathanzi.uchicago.edu/) (TLT), a longitudinal study examining young people's reproductive goals and behaviors amidst an AIDS epidemic. 
+
+
+      My work appears in *[Social Science and Medicine](https://doi.org/10.1016/j.socscimed.2019.112686),* *[Population Studies](https://doi.org/10.1080/00324728.2020.1737188),[ Contraception](https://www.sciencedirect.com/science/article/pii/S0010782419303920?via%3Dihub), [American Journal of Public Health](https://doi.org/10.2105/AJPH.2019.305369), [Perspectives on Sexual and Reproductive Health](https://onlinelibrary.wiley.com/doi/full/10.1363/psrh.12073), [American Journal of Obstetrics & Gynecology](https://doi.org/10.1016/j.ajog.2020.02.026),* and *[BMJ Sexual and Reproductive Health](https://srh.bmj.com/content/44/3/181),* and has been featured across major news outlets, including *[The New York Times](https://www.nytimes.com/2019/09/20/upshot/abortion-pills-rising-use.html)* and *[The Atlantic.](https://www.theatlantic.com/health/archive/2018/07/after-abortion-is-illegal/565430/)*
     actions:
       - type: action
         label: Contact Me
