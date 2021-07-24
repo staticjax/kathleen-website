@@ -7,10 +7,8 @@ thumb_img_path: /images/woman_computer.png
 thumb_img_alt: woman at home on laptop computer
 content_img_path: ""
 content_img_alt: woman at home on laptop computer
-excerpt: "Aiken, Abigail R.A., Dana Johnson, Kathleen Broussard, and Elisa
-  Padron. 2018. “Experiences of women in Ireland who accessed abortion by
-  travelling abroad or by using abortion medication at home: a qualitative
-  study” BMJ Sexual and Reproductive Health 44(3), 1-6.  "
+excerpt: Aiken, Abigail R.A., Kathleen Broussard, Dana Johnson, and Elisa
+  Padron. 2018. Perspectives on Sexual and Reproductive Health 50(4), 157-163.
 seo:
   type: stackbit_page_meta
   title: Motivations and Experiences of People Seeking Medication Abortion Online
