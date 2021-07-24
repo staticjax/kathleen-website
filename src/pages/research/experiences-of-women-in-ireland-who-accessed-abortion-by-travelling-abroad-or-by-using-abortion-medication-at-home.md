@@ -5,13 +5,10 @@ subtitle: ""
 date: 2018-07-16T05:00:00.000Z
 thumb_img_path: /images/dublin_protest.jpg
 thumb_img_alt: People marching in Dublin streets for abortion rights
-content_img_path: /images/dublin_protest.jpg
-content_img_alt: People marching in Dublin streets for abortion rights
-excerpt: Current online options for abortion medications leave many important
-  needs unmet, particularly for women who encounter barriers to obtaining
-  clinic-based abortion services. There is a public health justification to
-  reduce clinic access barriers and to make medication abortion that is sourced
-  online and managed at home as safe and supported as possible.
+content_img_path: ""
+content_img_alt: ""
+excerpt: "Aiken, Abigail R.A., Dana Johnson, Kathleen Broussard, and Elisa
+  Padron. 2018. BMJ Sexual and Reproductive Health 44(3), 1-6.  "
 seo:
   type: stackbit_page_meta
   title: "Experiences of women in Ireland who accessed abortion by travelling
