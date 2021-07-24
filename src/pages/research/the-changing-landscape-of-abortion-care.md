@@ -6,14 +6,10 @@ date: 2020-01-06T06:00:00.000Z
 thumb_img_path: /images/ni_abortionismurder.jpg
 thumb_img_alt: Person walks down a street in Northern Ireland with a sign in the
   shop window that says "Abortion is murder"
-content_img_path: /images/ni_abortionismurder.jpg
-content_img_alt: Person walks down a street in Northern Ireland with a sign in
-  the shop window that says "Abortion is murder"
-excerpt: This study examines the embodied experiences of 68 women who sought
-  abortion services in Northern Ireland and the Republic of Ireland. Social
-  stigma and restrictive abortion laws were major barriers to care at the time
-  of study, providing the opportunity to explore the ways biological, social,
-  and structural factors shape embodiment.
+content_img_path: ""
+content_img_alt: ""
+excerpt: "Broussard, Kathleen. 2020. Social Science and Medicine 245, Article
+  112686, 1-9.  "
 seo:
   type: stackbit_page_meta
   title: ""
