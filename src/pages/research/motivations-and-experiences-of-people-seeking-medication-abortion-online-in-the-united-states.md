@@ -1,7 +1,7 @@
 ---
 title: Motivations and Experiences of People Seeking Medication Abortion Online
   in the United States
-subtitle: "Published in Perspectives on Sexual and Reproductive Health "
+subtitle: ""
 date: 2018-07-11T05:00:00.000Z
 thumb_img_path: /images/woman_computer.png
 thumb_img_alt: woman at home on laptop computer
