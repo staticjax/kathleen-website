@@ -5,22 +5,19 @@ subtitle: ""
 date: 2018-10-19T05:00:00.000Z
 thumb_img_path: /images/northern-ireland_personmountains.jpg
 thumb_img_alt: Person standing in open field in front of mountains in Northern Ireland
-content_img_path: /images/northern-ireland_personmountains.jpg
-content_img_alt: Person standing in open field in front of mountains in Northern Ireland
-excerpt: Northern Ireland’s abortion laws negatively affect the quality and
-  safety of women’s healthcare and can have serious implications for women’s
-  physical and emotional health. Our findings offer new perspectives for the
-  current policy debate over Northern Ireland’s abortion laws and suggest a
-  public health rationale for decriminalising abortion.
+content_img_path: ""
+content_img_alt: ""
+excerpt: "Aiken, Abigail R.A., Elisa Padron, Kathleen Broussard, and Dana
+  Johnson. 2019. BMJ Sexual and Reproductive Health 45, 3-9. "
 seo:
   type: stackbit_page_meta
   title: The impact of Northern Ireland’s abortion laws on women’s abortion
     decision-making and experiences
-  description: ""
+  description: Kathleen Broussard
   extra:
     - name: og:type
-      value: article
-      keyName: property
+      value: ""
+      keyName: ""
     - name: og:title
       value: A Weekend in Japan
       keyName: property
@@ -51,27 +48,14 @@ template: post
 * Lead article 
 * Media coverage: The Guardian, BuzzFeed, Bustle, among others 
 
-  ![](/images/bmjsrh_northernireland.jpg)  
-Between April 2017 and February 2018 we interviewed 30 women living in Northern Ireland who had sought abortion by travelling to a clinic in Great Britain or by using online telemedicine to self-manage a medication abortion at home. We interviewed women both before and after a policy change that allowed women from Northern Ireland access to free abortion services in Great Britain. 
+    ![](/images/bmjsrh_northernireland.jpg)
 
-## **Findings and illustrative quotes**
+## Abstract
 
-**Women in Northern Ireland still experience multiple barriers to travelling to access abortion care even though abortions are now provided free in Great Britain.**
+**Background** In Northern Ireland, abortion is illegal except in very limited circumstances to preserve a woman’s life or to prevent permanent or long-term injury to her physical or mental health. Abortions conducted outside the law are a criminal offence punishable by imprisonment. We assessed the impacts of Northern Ireland’s abortion laws on women’s decision-making and experiences in accessing abortion.
 
-*"Being a single mum of quite a few children I’d have to somehow find childcare. And on top of that I’d have to try to hide it, because there's a massive stigma attached to it in this country. You feel like a criminal no matter what pathway you take."*
+**Methods** Between April 2017 and February 2018 we interviewed 30 women living in Northern Ireland who had sought abortion by travelling to a clinic in Great Britain or by using online telemedicine to self-manage a medication abortion at home. We interviewed women both before and after a policy change that allowed women from Northern Ireland access to free abortion services in Great Britain. We used a semi-structured in-depth approach and analysed the interviews using grounded theory methodology to identify key themes.
 
-*Pamela, 33 years old*
+**Results** Four key findings emerged from our analysis: (1) women experience multiple barriers to travelling for abortion services, even when abortion is provided without charge; (2) self-management is often preferred over travel, but its criminalisation engenders fear and isolation; (3) obstruction of import of abortion medications by Northern Ireland Customs contributes to stress, anxiety, a higher risk of complications, and trial of ineffective or unsafe methods; and (4) lack of clarity surrounding the obligations of healthcare professionals in Northern Ireland causes mistrust of the healthcare system.
 
-**Self-managed medication abortion using online telemedicine may be preferred over travel due its convenience and safety, but the experience is dominated by fear and isolation due to the risk of prosecution.**
-
-*"There would be such a traumatic side to having to travel instead of being in the comfort of your own home. But I was absolutely frightened. I never slept for weeks tracing that parcel. Oh my god, it was a scary time, and I probably never settled for even a week after receiving it, because I was so scared that the police were going to land on my door … I just thought, my god, is this really what it could actually come to? Where you can get an hour’s flight, and not get into any trouble. But you get it sent to your home and you could be arrested…."*
-
-*Pearl, 36 years old* 
-
-**Lack of clarity surrounding Northern Irish abortion laws delays access to care and fuels mistrust of the healthcare system.**
-
-*My first packet got seized and I went into a state of panic … I rung up Customs and asked them did they know where my package was because it was taking weeks. The person on the phone asked me if I knew that [misoprostol] was a Class A drug…he compared it to heroin. He actually said to me ‘It’s in the same class as heroin’.”* 
-
-*Ruth, 18 years old*  
-
-[Note: Misoprostol is not classed as a Drug of Misuse and is on the WHO List of Essential Medicines.]
+**Conclusions** Northern Ireland’s abortion laws negatively affect the quality and safety of women’s healthcare and can have serious implications for women’s physical and emotional health. Our findings offer new perspectives for the current policy debate over Northern Ireland’s abortion laws and suggest a public health rationale for decriminalising abortion.
