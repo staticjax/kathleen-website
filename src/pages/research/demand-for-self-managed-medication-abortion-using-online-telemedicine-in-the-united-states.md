@@ -6,13 +6,12 @@ thumb_img_path: /images/ajph_2019_demand-for-smma.png
 thumb_img_alt: "Map Showing Density of Requests for Abortion Medications to
   Women on Web by State of Residence: United States; October 15, 2017–August 15,
   2018"
-content_img_path: /images/ajph_2019_demand-for-smma.png
-content_img_alt: "Map Showing Density of Requests for Abortion Medications to
-  Women on Web by State of Residence: United States; October 15, 2017–August 15,
-  2018"
-excerpt: Demand for self-managed medication abortion through online telemedicine
-  is prevalent in the United States. There is a public health justification to
-  make these abortions as safe, effective, and supported as possible
+content_img_path: ""
+content_img_alt: ""
+excerpt: "Aiken, Abigail R.A., Jennifer E. Starling, Alexandra Van der Wal,
+  Sascha Van der Vliet, Kathleen Broussard, Dana Johnson, Elisa Padron, Rebecca
+  Gomperts, James Scott. 2020. American Journal of Public Health 110(1), 90-97.
+  "
 seo:
   type: stackbit_page_meta
   title: ""
@@ -46,8 +45,6 @@ template: post
 ---
 Map Showing Density of Requests for Abortion Medications to Women on Web by State of Residence: United States; October 15, 2017–August 15, 2018
 
-
-
 ## Reach & impact
 
 * Cited in June Medical v. Gee Amicus Brief to the Supreme Court of the United States
@@ -56,8 +53,6 @@ Map Showing Density of Requests for Abortion Medications to Women on Web by Stat
 
 ![](/images/ajph_sma_us_vol110.jpg)
 
-
-
 ## About the study
 
 **Study design**\
@@ -65,3 +60,5 @@ We examined requests from US residents to the online telemedicine abortion servi
 
 **Findings**\
 Over 10 months, WoW received 6022 requests from US residents; 76% from hostile states. Mississippi had the highest rate of requests (24.9 per 100 000 women of reproductive age). In both hostile and supportive states, a majority (60%) reported a combination of barriers to clinic access and preferences for self-management. Cost was the most common barrier (71% in hostile states; 63% in supportive states) and privacy was the most common preference (49% in both hostile and supportive states).
+
+![](/images/ajph_2019_demand-for-smma.png "Map Showing Density of Requests for Abortion Medications to Women on Web by State of Residence: United States; October 15, 2017–August 15, 2018")
