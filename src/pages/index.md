@@ -16,15 +16,13 @@ sections:
       gender, and social policy. In my dissertation, I use both quantitative and
       qualitative methods to investigate the individual, social, and structural
       determinants of health-seeking behaviors. Questions that motivate my
-      research include: 
+      research include: *How do healthcare and medical technologies shape the
+      meaning and experience of pregnancy, abortion, and childbearing?* and *How
+      do people's identities and beliefs influence their engagement with the
+      formal healthcare system?* 
 
 
-      * *How do healthcare and medical technologies shape the meaning and experience of pregnancy, abortion, and childbearing?* 
-
-      * *How do people's identities and beliefs influence their engagement with the formal healthcare system?* 
-
-
-      My sole-authored paper in *[Social Science & Medicine](https://doi.org/10.1016/j.socscimed.2019.112686)* responds to these questions through an analysis of the narratives of 68 women living in Ireland and Northern Ireland who sought abortion prior to its legalization. These women either left the country to receive clinic-based care or obtained medications through informal channels to self-manage an abortion at home. In this work, I situate self-managed abortion within the continuum of (de)medicalization and reveal the ways medical technology and healthcare provision shape individual perceptions and beliefs about pain, the fetus, method, and the environment where care is received. 
+      My sole-authored paper in *[Social Science & Medicine](https://doi.org/10.1016/j.socscimed.2019.112686)* responds to these questions through an analysis of the narratives of 68 women living in Ireland and Northern Ireland who sought abortion prior to its legalization. These women either left the country to receive clinic-based care or obtained medications through informal channels to self-manage an abortion at home. In this work, I situate self-managed abortion within the continuum of (de)medicalization and reveal the ways medical technology and healthcare provision shape individual perceptions and beliefs about pain, the body, and the environment where care is received. 
 
 
       In support of my research, I was awarded the 2019 Emerging Scholars in Family Planning grant from the Society of Family Planning and the NICHD Pre-Doctoral Training Fellowship in Demography. I have been a research associate on three collaborative projects: the [Texas Policy Evaluation Project](https://liberalarts.utexas.edu/txpep/) (TxPEP), which evaluates the impact of reproductive health legislation; [Project SANA](https://www.projectsana.org/), a study of self-managed abortion in the United States; and [Tsogolo la Thanzi](https://tsogololathanzi.uchicago.edu/) (TLT), a longitudinal study examining young people's reproductive goals and behaviors amidst an AIDS epidemic. 
