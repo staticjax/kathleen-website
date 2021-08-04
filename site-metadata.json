@@ -60,9 +60,8 @@
       {
         "type": "action",
         "label": "CV",
-        "url": "https://github.com/rkatbroussard/websitecontent/blob/main/CV_Broussard.pdf",
-        "style": "link",
-        "new_window": true
+        "url": "/cv/",
+        "style": "link"
       },
       {
         "type": "action",
