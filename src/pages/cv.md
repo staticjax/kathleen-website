@@ -36,4 +36,6 @@ seo:
 template: page
 ---
 
+[Download CV](https://kathleenbroussard.com/CV_broussard.pdf)
+
 <iframe width="960" height="1200" src="/CV_Broussard.pdf"></iframe>
