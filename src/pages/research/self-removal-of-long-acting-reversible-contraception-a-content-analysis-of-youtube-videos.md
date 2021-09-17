@@ -18,6 +18,8 @@ template: post
 ---
 Published in *[Contraception.](https://doi.org/10.1016/j.contraception.2021.08.002)*
 
+Featured in* [Business Insider](https://www.insider.com/people-pulling-out-their-iud-to-avoid-costs-doctor-refusal-2021-8)* 
+
 ![](/images/contraception_india_vol100_iss6.jpg)
 
 <!--StartFragment-->
