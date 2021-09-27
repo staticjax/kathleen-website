@@ -12,7 +12,10 @@ template: page
 
 ## Media Coverage
 
-*The Economist* | March 2020\
+*San Antonio Express News* | September 2021\
+['Window of uncertainty': SB 8 turns Texas reproductive health care upside down](https://www.expressnews.com/news/local/article/Window-of-uncertainty-SB-8-turns-Texas-16486217.php)
+
+*The Economist* | March 2020\  
 [Abortions are becoming safer and easier to obtain—even where they are illegal](https://www.economist.com/international/2020/03/05/abortions-are-becoming-safer-and-easier-to-obtain-even-where-they-are-illegal)
 
 *The Daily Beast* | March 2020\
