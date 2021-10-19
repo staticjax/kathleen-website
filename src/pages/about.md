@@ -1,6 +1,6 @@
 ---
 title: about
-subtitle: 'PhD Candidate, Sociology '
+subtitle: "PhD Candidate, Sociology "
 img_path: /images/mauve6.jpg
 img_alt: Kathleen Broussard
 seo:
@@ -13,7 +13,8 @@ seo:
       value: website
       keyName: property
     - name: og:title
-      value: About Kathleen Broussard | PhD Candidate at the University of Texas at Austin
+      value: About Kathleen Broussard | PhD Candidate at the University of Texas at
+        Austin
       keyName: property
     - name: og:description
       value: I'm a PhD Candidate at the University of Texas at Austin. I study
@@ -38,13 +39,9 @@ template: page
 
 ## Kathleen Broussard
 
-I am currently a PhD candidate in Sociology with a specialization in Demography at the [University of Texas at Austin](https://liberalarts.utexas.edu/sociology/graduate/gradstudents/profile.php?id=rkg335).
+Prior to beginning my PhD at UT Austin, I received a Master's degree from the University of Chicago and spent two years living in Kansas and Georgia, where I provided services for survivors of sexual violence as a Victim Advocate for the U.S. Army.   
 
-For my dissertation, I designed and implemented an original survey, conducted in-depth interviews, and analyzed longitudinal data to explore people’s attitudes and decision-making processes surrounding reproduction and formal healthcare. I am interested in how broader social structures shape people's health outcomes and attitudes towards medicine, so I take a transnational approach, exploring women's contraceptive- and abortion-seeking pathways across range of political contexts in the U.S., Latin America, Europe, and Sub-Saharan Africa.
-
-My research as been supported by the National Institute of Child Health and Human Development (NICHD) and the Society of Family Planning. My work appears in *[Social Science and Medicine,](https://doi.org/10.1016/j.socscimed.2019.112686)* *[Population Studies](https://doi.org/10.1080/00324728.2020.1737188), [Contraception](https://www.sciencedirect.com/science/article/pii/S0010782419303920?via%3Dihub), [Americ​an Journal of Public Health](https://doi.org/10.2105/AJPH.2019.305369), [Perspectives on Sexual and Reproductive Health](https://onlinelibrary.wiley.com/doi/full/10.1363/psrh.12073), [AJOG](https://doi.org/10.1016/j.ajog.2020.02.026),* and _[BMJ Sexual and Reproductive Health](https://srh.bmj.com/content/44/3/181)._
-
-Outside of academia, my research has been featured in major news outlets, including *[The New York Times](https://www.nytimes.com/2019/09/20/upshot/abortion-pills-rising-use.html) and [The Atlantic](https://www.theatlantic.com/health/archive/2018/07/after-abortion-is-illegal/565430/).*
+Outside of work, you can find me at home with my family, gardening or tending to our backyard flock of chickens and ducks. 
 
 ## Selected Publications
 
