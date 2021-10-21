@@ -7,7 +7,7 @@ template: page
 ---
 ## Featured Report
 
-*Business Insider* | August 2021
+*Business Insider* | August 2021  
 [Doctors are refusing to take out IUDs, so people are pulling them out at home — and posting how-to videos on TikTok and YouTube](https://www.insider.com/people-pulling-out-their-iud-to-avoid-costs-doctor-refusal-2021-8)
 
 ## Media Coverage
