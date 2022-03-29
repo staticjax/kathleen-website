@@ -6,9 +6,8 @@ thumb_img_path: /images/doctor_counseling.png
 thumb_img_alt: Doctor taking notes while consulting with a female patient
 content_img_path: ""
 content_img_alt: ""
-excerpt: "Potter, Joseph E., Kristen Burke, Kathleen Broussard, Kristine
-  Hopkins, Daniel Grossman, and Kari White. 2021. “ Contraception. Available
-  online June 2021. "
+excerpt: Potter, Joseph E., Kristen Burke, Kathleen Broussard, Kristine Hopkins,
+  Daniel Grossman, and Kari White. 2021. Contraception 104(5):518-523.
 seo:
   type: stackbit_page_meta
   title: ""
