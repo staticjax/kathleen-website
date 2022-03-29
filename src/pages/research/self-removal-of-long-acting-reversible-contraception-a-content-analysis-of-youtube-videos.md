@@ -2,7 +2,7 @@
 title: "Self-removal of long-acting reversible contraception: A content analysis
   of YouTube videos"
 date: 2021-07-24T21:57:52.122Z
-thumb_img_path: /images/iud_reproductive-health-supplies-coalition-chrchdg2h9e-unsplash.jpg
+thumb_img_path: /images/contraception_india_vol100_iss6.jpg
 excerpt: "Broussard, Kathleen and Andréa Becker. 2021. Contraception 104(6): 654-658. "
 seo:
   title: ""
