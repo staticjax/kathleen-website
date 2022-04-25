@@ -5,21 +5,20 @@ img_path: ""
 img_alt: ""
 template: page
 ---
-## Featured Report
+## featured report
 
 *Business Insider* | August 2021\
 [Doctors are refusing to take out IUDs, so people are pulling them out at home — and posting how-to videos on TikTok and YouTube](https://www.insider.com/people-pulling-out-their-iud-to-avoid-costs-doctor-refusal-2021-8)
 
-## Media Coverage
+## media coverage
 
-*The New Yorker* | November 2021   
+*The New Yorker* | November 2021\
 [What Does an At-Home Abortion Look Like in 2021?](https://www.newyorker.com/news/news-desk/what-does-an-at-home-abortion-look-like-in-2021)
-
 
 *San Antonio Express News* | September 2021\
 ['Window of uncertainty': SB 8 turns Texas reproductive health care upside down](https://www.expressnews.com/news/local/article/Window-of-uncertainty-SB-8-turns-Texas-16486217.php)
 
-*The Economist* | March 2020\\
+*The Economist* | March 2020\
 [Abortions are becoming safer and easier to obtain—even where they are illegal](https://www.economist.com/international/2020/03/05/abortions-are-becoming-safer-and-easier-to-obtain-even-where-they-are-illegal)
 
 *The Daily Beast* | March 2020\
@@ -58,7 +57,7 @@ template: page
 *Fox News* | October 2018\
 [Abortion restrictions prompt international activists to provide care in America](https://www.foxnews.com/health/abortion-restrictions-prompt-international-activists-to-provide-care-in-america)
 
-## Research Briefs
+## research briefs
 
 Aiken, Abigail R. A., Dana Johnson, and **Kathleen Broussard**. 2019. [“Abortion in Ireland and Northern Ireland.”](https://doi.org/10.1016/j.ogrm.2019.08.002) *Obstetrics, Gynaecology & Reproductive Medicine*. Vol. 29(11):326-327.
 
