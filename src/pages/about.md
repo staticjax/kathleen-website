@@ -39,11 +39,14 @@ template: page
 ---
 ## Kathleen Broussard
 
-Prior coming to South Carolina, I completed a Ph.D. at UT Austin and M.A at the University of Chicago. I'm a native Texan, but I've lived nd spent two years living in Kansas and Georgia, where I provided services for survivors of sexual violence as a Victim Advocate for the U.S. Army.   
+Prior coming to South Carolina, I completed a Ph.D. at UT Austin and M.A at the University of Chicago. I'm a native Texan, but I've lived in Kansas and Georgia, where I provided services for survivors of sexual violence as a Victim Advocate for the U.S. Army.   
 
 Outside of work, you can find me hiking in the woods, gardening, or at home with my family and chickens. 
 
 ## selected publications
+
+**Broussard, Kathleen** and Andréa Becker. 2021. [”Self-Removal of Long-Acting Reversible 
+Contraception: A Content Analysis of YouTube Videos”](https://www.sciencedirect.com/science/article/pii/S0010782421003462?via%3Dihub) *Contraception* 104(6), 654-658. 
 
 **Broussard, Kathleen.** 2020. [“The Changing Landscape of Abortion Care: Embodied Experiences of Structural Stigma in the Republic of Ireland and Northern Ireland”](https://doi.org/10.1016/j.socscimed.2019.112686) *Social Science and Medicine* 245, Article 112686, 1-9.
 
