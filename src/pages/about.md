@@ -39,7 +39,7 @@ template: page
 ---
 ## Kathleen Broussard
 
-Prior coming to South Carolina, I completed a Ph.D. at UT Austin and M.A at the University of Chicago. I'm a native Texan, but I've lived in Kansas and Georgia, where I provided services for survivors of sexual violence as a Victim Advocate for the U.S. Army.   
+Prior to moving to South Carolina, I completed a Ph.D. at UT Austin and M.A at the University of Chicago. I'm a native Texan, but I've lived in Kansas and Georgia, where I provided services for survivors of sexual violence as a Victim Advocate for the U.S. Army.   
 
 Outside of work, you can find me hiking in the woods, gardening, or at home with my family and chickens. 
 
