@@ -5,7 +5,7 @@ sections:
   - type: section_hero
     title: Kathleen Broussard
     section_id: hero
-    content: PhD Candidate at the University of Texas at Austin
+    content: Assistant Professor of Sociology, The University of South Carolina
   - type: section_content
     title: About
     section_id: about
@@ -42,7 +42,8 @@ sections:
         style: button
 seo:
   type: stackbit_page_meta
-  title: Kathleen Broussard | PhD Candidate at the University of Texas at Austin
+  title: "Kathleen Broussard | Assistant Professor of Sociology, The University of
+    South Carolina "
   description: Kathleen Broussard
   extra:
     - name: og:type
@@ -52,8 +53,9 @@ seo:
       value: Kathleen Broussard
       keyName: property
     - name: og:description
-      value: I'm a PhD Candidate at the University of Texas at Austin. I study
-        reproduction, medicine, population health, and social policy.
+      value: I am an Assistant Professor of Sociology at the University of South
+        Carolina.  I study reproduction, medicine, population health, and social
+        policy.
       keyName: property
     - name: og:image
       value: images/kathleenbroussard.jpg
@@ -64,8 +66,7 @@ seo:
     - name: twitter:title
       value: Kathleen Broussard
     - name: twitter:description
-      value: I'm a PhD Candidate at the University of Texas at Austin. I study
-        reproduction, medicine, population health, and social policy.
+      value: ""
     - name: twitter:image
       value: images/kathleenbroussard.jpg
       relativeUrl: true
