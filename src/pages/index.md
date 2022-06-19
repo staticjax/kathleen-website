@@ -10,10 +10,12 @@ sections:
     title: About
     section_id: about
     content: >-
-      Hi there! I'm a PhD candidate in Sociology at the University of Texas at
-      Austin and a fellow at the Population Research Center. My research
-      interests include sexual and reproductive health, fertility, gender,
-      social networks, and social policy. 
+      Hi there! I am an Assistant Professor of Sociology at the University of
+      South Carolina. Prior to joining UofSC, I completed my Ph.D. in Sociology
+      at the University of Texas at Austin, where I was a fellow at the
+      Population Research Center. My research interests include sexual and
+      reproductive health, social demography, fertility, gender, and health
+      policy.
 
 
       For my dissertation, I designed and implemented an original survey, conducted in-depth interviews, and analyzed longitudinal data to explore people’s attitudes and decision-making processes surrounding contraceptive use, abortion, and formal healthcare engagement. My work considers the individual, social, and structural determinants of people's experiences of healthcare and attitudes towards medicine. I take a transnational approach, exploring these topics across borders and within specific political contexts in the U.S., Latin America, Europe, and Sub-Saharan Africa.
