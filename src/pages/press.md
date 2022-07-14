@@ -12,6 +12,9 @@ template: page
 
 ## media coverage
 
+*Key Opinion Leaders* | July 2022\
+[These Are The Top 5 Key Opinion Leaders (KOLs) On Abortion Legislation](https://www.keyopinionleaders.com/kols-news/these-are-the-top-5-key-opinion-leaders-kols-on-abortion-legislation.shtml)
+
 *The New Yorker* | November 2021\
 [What Does an At-Home Abortion Look Like in 2021?](https://www.newyorker.com/news/news-desk/what-does-an-at-home-abortion-look-like-in-2021)
 
