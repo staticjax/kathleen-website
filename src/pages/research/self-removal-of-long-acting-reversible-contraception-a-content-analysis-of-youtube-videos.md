@@ -43,5 +43,3 @@ This study builds upon prior research by describing publicly available informati
 ### Implications
 
 Prior to LARC insertion, patients should be made aware of any financial requirements for discontinuation. Provider counseling for self-removal at the time of insertion will likely minimize health risks and affirm patient reproductive autonomy.
-
-*photo of IUD by* *[Reproductive Health Supplies Coalition](https://unsplash.com/@rhsupplies?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/iud?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
