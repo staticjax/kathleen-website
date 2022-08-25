@@ -1,7 +1,7 @@
 ---
 title: about
 subtitle: Assistant Professor of Sociology, The University of South Carolina
-img_path: /images/mauve6.jpg
+img_path: /images/kw300302.jpg
 img_alt: Kathleen Broussard
 seo:
   type: stackbit_page_meta
