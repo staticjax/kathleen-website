@@ -37,7 +37,7 @@
         "new_window": true
       }
     ],
-    "profile_img": "/images/cropped_web_headshot_broussardkathleen-.jpg",
+    "profile_img": "/images/broussard_cropped.jpg",
     "background": "light",
     "tagline": "PhD, Sociology",
     "has_social": true,
@@ -88,6 +88,6 @@
     "type": "footer",
     "content": "&copy; Kathleen Broussard. All rights reserved.</a>"
   },
-  "favicon": "/images/cropped_web_headshot_broussardkathleen-.jpg",
+  "favicon": "/images/broussard_cropped.jpg",
   "siteUrl": "https://kathleenbroussard.com/"
 }
