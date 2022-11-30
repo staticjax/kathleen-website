@@ -1,5 +1,5 @@
 ---
-title: Presentations
+title: presentations
 img_path: /images/sfp-poster.jpg
 seo:
   title: ""
