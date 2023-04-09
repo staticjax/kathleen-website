@@ -1,14 +1,14 @@
 ---
 title: about
-subtitle: Assistant Professor of Sociology, The University of South Carolina
+subtitle: Assistant Professor of Sociology, University of South Carolina
 img_path: /images/kw300302.jpg
 img_alt: Kathleen Broussard
 seo:
   type: stackbit_page_meta
   title: Kathleen Broussard
   description: I'm Assistant Professor of Sociology at the University of South
-    Carolina (PhD, Texas). I study reproduction, medicine, population health,
-    and social policy.
+    Carolina. I study reproduction, medicine, population health, and social
+    policy.
   extra:
     - name: og:type
       value: website
