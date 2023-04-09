@@ -5,7 +5,7 @@ sections:
   - type: section_hero
     title: Kathleen Broussard
     section_id: hero
-    content: Assistant Professor of Sociology, The University of South Carolina
+    content: Assistant Professor of Sociology, University of South Carolina
   - type: section_content
     title: About
     section_id: about
