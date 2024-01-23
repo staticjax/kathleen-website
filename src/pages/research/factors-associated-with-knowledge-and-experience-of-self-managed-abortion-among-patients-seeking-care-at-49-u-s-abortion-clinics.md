@@ -22,9 +22,7 @@ template: post
 
 Published in *[JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2803942)*
 
-
-
-![](/images/jama-network-open-2.jpeg)
+![]()
 
 **A﻿BSTRACT**
 
