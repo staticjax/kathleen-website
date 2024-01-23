@@ -21,8 +21,6 @@ template: post
 
 Published in *[JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2803942)*
 
-![]()
-
 **A﻿BSTRACT**
 
 **Importance**  Patients attending US abortion clinics may consider or try self-managing their abortion before coming to the clinic, yet little is known about the factors associated with self-management behavior.
