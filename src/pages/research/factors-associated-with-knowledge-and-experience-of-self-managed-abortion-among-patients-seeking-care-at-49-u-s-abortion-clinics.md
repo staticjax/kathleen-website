@@ -1,7 +1,7 @@
 ---
 title: " Factors Associated with Knowledge and Experience of Self-Managed
   Abortion Among Patients Seeking Care at 49 U.S. Abortion Clinics"
-subtitle: ""
+subtitle: "2023. JAMA Network Open. "
 date: 2023-04-18T17:08:03.583Z
 thumb_img_path: /images/sincerely-media-hl3eogfiy0k-unsplash.jpg
 excerpt: "2023. JAMA Network Open "
