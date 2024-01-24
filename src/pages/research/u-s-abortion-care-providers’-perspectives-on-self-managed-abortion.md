@@ -1,10 +1,9 @@
 ---
 title: U.S. Abortion Care Providers’ Perspectives on Self-Managed Abortion
+subtitle: 2022. Qualitative Health Research.
 date: 2022-03-29T17:26:21.178Z
-thumb_img_path: /images/qualitative-health-research.jpg
-excerpt: "Aleta Baldwin, Dana M. Johnson, Kathleen Broussard, Luisa Alejandra
-  Tello-Pérez, Melissa Madera, Carol Ze-Noah, Elisa Padron, Abigail R. A. Aiken.
-  2022. Qualitative Health Research Vol. 32(5) 788–799. "
+thumb_img_path: /images/doctor_woman.jpg
+excerpt: "2022. Qualitative Health Research. "
 seo:
   title: ""
   description: ""
