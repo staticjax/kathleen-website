@@ -1,7 +1,7 @@
 ---
 title: "Self-removal of long-acting reversible contraception: A content analysis
   of YouTube videos"
-subtitle: Contraception. 2021.
+subtitle: ""
 date: 2021-07-24T21:57:52.122Z
 thumb_img_path: /images/contraception_india_vol100_iss6.jpg
 excerpt: Contraception. 2021.
