@@ -7,8 +7,7 @@ thumb_img_path: /images/dublin_protest.jpg
 thumb_img_alt: People marching in Dublin streets for abortion rights
 content_img_path: ""
 content_img_alt: ""
-excerpt: "Aiken, Abigail R.A., Dana Johnson, Kathleen Broussard, and Elisa
-  Padron. 2018. BMJ Sexual and Reproductive Health 44(3), 1-6.  "
+excerpt: BMJ Sexual and Reproductive Health. 2018
 seo:
   type: stackbit_page_meta
   title: "Experiences of women in Ireland who accessed abortion by travelling
@@ -44,31 +43,24 @@ seo:
       relativeUrl: true
 template: post
 ---
-## Reach & impact
+## A﻿bout the Article
 
- • In May 2018, The Republic of Ireland held a referendum to repeal the Eighth Amendment to the Irish Constitution, which guaranteed fetuses the same right to life as pregnant people, essentially outlawing abortion in the country. In October 2017, our research team, Project SANA, was invited to address the Irish Parliamentary Committee (the Oireachtas Committee). The Committee recommended allowing abortion upon request up to 12 weeks gestation, and cited the evidence provided by Project SANA a pivotal part on the decision.
-
-• Media coverage: *[The Irish Times](https://www.thetimes.co.uk/article/women-buying-illegal-pills-swayed-abortion-decision-tvp2kffst)*, *[The Guardian](https://www.theguardian.com/world/2016/oct/17/home-abortion-kits-women-ireland-study)*
-
-* Published in *[BMJ Sexual and Reproductive Health](https://srh.bmj.com/content/44/3/181)*
+Published in *[BMJ Sexual and Reproductive Health](https://srh.bmj.com/content/44/3/181)*
 
 ![Journal cover of BMJ SRH, July 2018, Vol 44, issue 3 ](/images/bmjsrh_ireland.jpg)
 
 ## About the study
 
-State legislation restricting access to abortion in the clinic setting raises the possibility that an increasing
-number of individuals in the United States will self-manage their abortion at home. Medications sourced online represent
-a potential pathway to abortion self-management. Yet, very little is known about the reasons U.S. residents may
-seek abortion online or their experiences finding medications and information.
+**Background** The Republic of Ireland has one of the world’s most restrictive abortion laws, allowing abortion only to preserve a pregnant woman’s life. We examined the impact of the law on women’s options for accessing abortion, their decision-making regarding whichpathway to follow, and their experiences with their chosen approach.
 
-In January–June 2017, anonymous in-depth interviews were conducted with 32 people from 20 states who sought abortion medications online (30 women and two men seeking medications for their partners). Participants were asked about their (or their partners’) motivations for considering self-managed abortion, the sources of medications they identified and any other methods they considered. 
+**Methods** We conducted semi-structured in-depth interviews with 38 women who had either travelled abroad to access abortion in a clinic or had self-managed a medical abortion at home using online telemedicine, between 2010 and 2017. We coded interview transcripts according to an iteratively developed coding guide and performed a thematic analysis to identify key themes.
 
-## Findings 
+**Results** We identified four key themes: (1) self-managing a medical abortion at home using online telemedicine can be a preference over travelling abroad to access abortion services; (2) regardless of the pathway chosen, women experience a lack of pre- and post-abortion support in the Irish healthcare system; (3) feelings of desperation while searching for safe abortion care can lead to considering or attempting dangerous methods; and (4) Irish abortion law and attitudes have impacts beyond physical health considerations, engendering shame and stigma.
 
- (1) Self-managing a medical abortion at home using online telemedicine can be a preference over travelling abroad to access abortion services
+**Conclusions** Despite the country’s restrictive abortion law, women in Ireland do obtain abortions, using methods that are legal and safe elsewhere. However, the law negatively impacts women’s ability to discuss their options with their healthcare professionals and to seek follow-up care, and can have serious implications for their physical and emotional health. This study’s findings provide evidence to inform public and policy discourse on Ireland’s abortion laws.
 
-(2) Regardless of the pathway chosen, women experience a lack of pre- and post-abortion support in the Irish healthcare system
+## Reach & impact
 
-(3) Feelings of desperation while searching for safe abortion care can lead to considering or attempting dangerous methods
+ • In May 2018, The Republic of Ireland held a referendum to repeal the Eighth Amendment to the Irish Constitution, which guaranteed fetuses the same right to life as pregnant people, essentially outlawing abortion in the country. In October 2017, our research team, Project SANA, was invited to address the Irish Parliamentary Committee (the Oireachtas Committee). The Committee recommended allowing abortion upon request up to 12 weeks gestation, and cited the evidence provided by Project SANA a pivotal part on the decision.
 
-(4) Irish abortion law and attitudes have impacts beyond physical health considerations, engendering shame and stigma.
+• Media coverage: *[The Irish Times](https://www.thetimes.co.uk/article/women-buying-illegal-pills-swayed-abortion-decision-tvp2kffst)*, *[The Guardian](https://www.theguardian.com/world/2016/oct/17/home-abortion-kits-women-ireland-study)*
