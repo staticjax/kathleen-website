@@ -46,19 +46,19 @@ Published in *[Perspectives on Sexual and Reproductive Health](https://onlinelib
 
 ### CONTEXT
 
-*State legislation restricting access to abortion in the clinic setting raises the possibility that an increasing number of individuals in the United States will self-manage their abortion at home. Medications sourced online represent a potential pathway to abortion self-management. Yet, very little is known about the reasons U.S. residents may seek abortion online or their experiences finding medications and information*.
+State legislation restricting access to abortion in the clinic setting raises the possibility that an increasing number of individuals in the United States will self-manage their abortion at home. Medications sourced online represent a potential pathway to abortion self-management. Yet, very little is known about the reasons U.S. residents may seek abortion online or their experiences finding medications and information.
 
 ### METHODS
 
-*In January–June 2017, anonymous in-depth interviews were conducted with 32 people from 20 states who sought abortion medications online (30 women and two men seeking medications for their partners). Participants were asked about their (or their partners’) motivations for considering self-managed abortion, the sources of medications they identified and any other methods they considered. Transcripts were coded and analyzed according to the principles of grounded theory*.
+In January–June 2017, anonymous in-depth interviews were conducted with 32 people from 20 states who sought abortion medications online (30 women and two men seeking medications for their partners). Participants were asked about their (or their partners’) motivations for considering self-managed abortion, the sources of medications they identified and any other methods they considered. Transcripts were coded and analyzed according to the principles of grounded theory.
 
 ### RESULTS
 
-*The analysis revealed four key themes: Seeking abortion medications online can be a response to clinic access barriers both in states with and in ones without restrictive abortion laws; self-managed abortion can be a preference over clinical care; online options offer either information or medications, but not both; and the lack of trusted online options can delay care and lead to consideration of ineffective or unsafe alternatives*.
+The analysis revealed four key themes: Seeking abortion medications online can be a response to clinic access barriers both in states with and in ones without restrictive abortion laws; self-managed abortion can be a preference over clinical care; online options offer either information or medications, but not both; and the lack of trusted online options can delay care and lead to consideration of ineffective or unsafe alternatives.
 
 ### CONCLUSION
 
-*Current online options for abortion medications leave many important needs unmet, particularly for women who encounter barriers to obtaining clinic-based abortion services. There is a public health justification to reduce clinic access barriers and to make medication abortion that is sourced online and managed at home as safe and supported as possible*.
+Current online options for abortion medications leave many important needs unmet, particularly for women who encounter barriers to obtaining clinic-based abortion services. There is a public health justification to reduce clinic access barriers and to make medication abortion that is sourced online and managed at home as safe and supported as possible.
 
 ## Reach & impact
 
