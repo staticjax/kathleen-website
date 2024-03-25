@@ -1,9 +1,9 @@
 ---
 title: "Sociology from a Distance: Remote Interviews and Feminist Methods"
-subtitle: 2024. Qualitative Sociology
+subtitle: ""
 date: 2024-01-15T13:26:00.843Z
 thumb_img_path: /images/christin-hume-hcfwew744z4-unsplash.jpg
-excerpt: 2024. Qualitative Sociology
+excerpt: Qualitative Sociology. 2024
 seo:
   title: ""
   description: ""
