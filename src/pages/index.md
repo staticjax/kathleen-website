@@ -50,7 +50,7 @@ sections:
         style: button
 seo:
   type: stackbit_page_meta
-  title: "Kathleen Broussard | Assistant Professor of Sociology, The University of
+  title: "Kathleen Broussard | Assistant Professor of Sociology, University of
     South Carolina "
   description: Kathleen Broussard
   extra:
