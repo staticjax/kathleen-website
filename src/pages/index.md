@@ -5,23 +5,25 @@ sections:
   - type: section_hero
     title: Kathleen Broussard
     section_id: hero
-    content: Assistant Professor of Sociology, University of South Carolina
+    content: |-
+      Assistant Professor of Sociology
+      University of South Carolina
   - type: section_content
     title: About
     section_id: about
     content: >-
-      Hi there! I am an Assistant Professor of Sociology at the University of
-      South Carolina. Prior to joining UofSC, I completed my Ph.D. in Sociology
-      at the University of Texas at Austin, where I was a fellow at the
-      Population Research Center. My research interests include sexual and
-      reproductive health, social demography, fertility, gender, and health
-      policy.
+      Hi there! I am Assistant Professor of Sociology at the University of South
+      Carolina. I study sexual and reproductive health, social demography,
+      fertility desires and behaviors, and health policy.
 
 
-      My sole-authored paper in *[Social Science & Medicine](https://doi.org/10.1016/j.socscimed.2019.112686)* analyzes the narratives of 68 women living in two countries where abortion access was highly restricted (Ireland and Northern Ireland). These women either left the country to receive clinic-based care or obtained medications through informal channels to self-manage an abortion at home. In this work, I situate self-managed abortion within the continuum of (de)medicalization and reveal the ways medical technology and healthcare provision shape individual perceptions and beliefs about pain, the body, and the environment where care is received. 
+      Prior to joining USC, I completed my Ph.D. in Sociology at the University of Texas at Austin, where I was a fellow at the Population Research Center. 
 
 
-      My work also appears in *[Population Studies](https://doi.org/10.1080/00324728.2020.1737188), [JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2803942), [ Contraception](https://www.sciencedirect.com/science/article/pii/S0010782419303920?via%3Dihub), [American Journal of Public Health](https://doi.org/10.2105/AJPH.2019.305369), [Perspectives on Sexual and Reproductive Health](https://onlinelibrary.wiley.com/doi/full/10.1363/psrh.12073), [American Journal of Obstetrics & Gynecology](https://doi.org/10.1016/j.ajog.2020.02.026),* and *[BMJ Sexual and Reproductive Health](https://srh.bmj.com/content/44/3/181).* It has also been featured across major news outlets, including *[The New York Times](https://www.nytimes.com/2019/09/20/upshot/abortion-pills-rising-use.html)* and *[The Atlantic.](https://www.theatlantic.com/health/archive/2018/07/after-abortion-is-illegal/565430/)* In support of my research, I have received funding from the Society of Family Planning, the NICHD, and private foundations. 
+      In my recent work, I investigate people's experiences seeking abortion care in the face of numerous restrictions. Women I spoke with either left the country to receive clinic-based care or obtained medications through informal channels to self-manage an abortion at home. In this work, I situate self-managed abortion within the continuum of (de)medicalization and reveal the ways medical technology and healthcare provision shape individual perceptions and beliefs about pain, the body, and the environment where care is received. 
+
+
+      My work appears in *[Journal of Health and Social Behavior](https://journals.sagepub.com/doi/10.1177/00221465231215783),[Social Science & Medicine](https://doi.org/10.1016/j.socscimed.2019.112686), [Population Studies](https://doi.org/10.1080/00324728.2020.1737188), [JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2803942), [Contraception](https://www.sciencedirect.com/science/article/pii/S0010782419303920?via%3Dihub), [American Journal of Public Health](https://doi.org/10.2105/AJPH.2019.305369), [Perspectives on Sexual and Reproductive Health](https://onlinelibrary.wiley.com/doi/full/10.1363/psrh.12073), [American Journal of Obstetrics & Gynecology](https://doi.org/10.1016/j.ajog.2020.02.026),* and *[BMJ Sexual and Reproductive Health](https://srh.bmj.com/content/44/3/181).* It has been featured across major news outlets, including *[The New York Times](https://www.nytimes.com/2019/09/20/upshot/abortion-pills-rising-use.html)* and *[The Atlantic.](https://www.theatlantic.com/health/archive/2018/07/after-abortion-is-illegal/565430/)* In support of my research, I have received funding from the Society of Family Planning, the NICHD, and private foundations. 
 
 
       I have also contributed to three collaborative projects:
@@ -29,7 +31,7 @@ sections:
 
       * [Project SANA](https://www.projectsana.org/), a nationwide study of self-managed abortion
 
-      * [Texas Policy Evaluation Project](https://liberalarts.utexas.edu/txpep/) (TxPEP), which evaluates the impact of reproductive health legislation in Texas
+      * [Texas Policy Evaluation Project](https://liberalarts.utexas.edu/txpep/) (TxPEP), which evaluated the impact of reproductive health legislation in Texas
 
       * [Tsogolo la Thanzi](https://tsogololathanzi.uchicago.edu/) (TLT), a longitudinal study examining young young people's reproductive goals and behaviors amidst an AIDS epidemic in Southern Malawi.
     actions:
