@@ -7,8 +7,7 @@ thumb_img_path: /images/northern-ireland_personmountains.jpg
 thumb_img_alt: Person standing in open field in front of mountains in Northern Ireland
 content_img_path: ""
 content_img_alt: ""
-excerpt: "Aiken, Abigail R.A., Elisa Padron, Kathleen Broussard, and Dana
-  Johnson. 2019. BMJ Sexual and Reproductive Health 45, 3-9. "
+excerpt: BMJ Sexual and Reproductive Health. 2019
 seo:
   type: stackbit_page_meta
   title: The impact of Northern Ireland’s abortion laws on women’s abortion
