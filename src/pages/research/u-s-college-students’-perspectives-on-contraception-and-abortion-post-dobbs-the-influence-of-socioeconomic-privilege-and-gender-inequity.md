@@ -1,7 +1,7 @@
 ---
 title: "U.S. college students’ perspectives on contraception and abortion
   post-Dobbs: the influence of socioeconomic privilege and gender inequity"
-date: 2024-03-25T20:44:31.789Z
+date: 2024-01-01T21:44:31.789Z
 thumb_img_path: /images/collegestudent.jpg
 excerpt: Frontiers in Public Health. 2024
 seo:
