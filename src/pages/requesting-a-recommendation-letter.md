@@ -1,5 +1,5 @@
 ---
-title: Requesting a recommendation letter
+title: Recommendation letters
 seo:
   title: ""
   description: ""
