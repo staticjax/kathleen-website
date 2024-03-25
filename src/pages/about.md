@@ -41,11 +41,11 @@ template: page
 
 Prior to moving to South Carolina, I completed my PhD at UT Austin and MA at the University of Chicago. I'm a native Texan, but I previously lived in Kansas and Georgia, where I provided services for survivors of sexual violence as a Victim Advocate for the U.S. Army. 
 
-Outside of the office and classroom, you can find me hiking in the woods, gardening, or at home with my family.  
+Outside of the office and classroom, you can find me hiking in the woods, gardening, or at home with my family. 
 
 ## selected publications
 
-**Broussard, Kathleen**. 2024. ["Strategic (Non)disclosure: The Role of Social Networks in Self-Managed Abortion”](https://journals.sagepub.com/doi/10.1177/00221465231215783) *Journal of Health and Social Behavior,* Online first.
+**Broussard, Kathleen**. 2024. ["Strategic Non/disclosure: The Role of Social Networks in Self-Managed Abortion”](https://journals.sagepub.com/doi/10.1177/00221465231215783) *Journal of Health and Social Behavior,* Online first.
 
 O’Quinn, Jamie, Erika Slaymaker, Jess Goldstein-Kral, and **Kathleen Broussard**. 2024. [“Sociology from a Distance: Remote Interviews and Feminist Methods”](https://link.springer.com/article/10.1007/s11133-024-09556-y) *Qualitative Sociology,* 47:43-67. 
 
