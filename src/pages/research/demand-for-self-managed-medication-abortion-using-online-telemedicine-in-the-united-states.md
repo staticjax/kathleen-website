@@ -8,10 +8,7 @@ thumb_img_alt: "Map Showing Density of Requests for Abortion Medications to
   2018"
 content_img_path: ""
 content_img_alt: ""
-excerpt: "Aiken, Abigail R.A., Jennifer E. Starling, Alexandra Van der Wal,
-  Sascha Van der Vliet, Kathleen Broussard, Dana Johnson, Elisa Padron, Rebecca
-  Gomperts, James Scott. 2020. American Journal of Public Health 110(1), 90-97.
-  "
+excerpt: "American Journal of Public Health. 2020 "
 seo:
   type: stackbit_page_meta
   title: ""
