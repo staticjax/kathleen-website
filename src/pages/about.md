@@ -45,10 +45,9 @@ Outside of the office and classroom, you can find me hiking in the woods, garden
 
 ## selected publications
 
+**Broussard, Kathleen**. 2024. ["Strategic (Non)disclosure: The Role of Social Networks in Self-Managed Abortion”](https://journals.sagepub.com/doi/10.1177/00221465231215783) *Journal of Health and Social Behavior,* Online first.
 
-**Broussard, Kathleen.** 2024. ["Strategic (Non)disclosure: The Role of Social Networks in Self-Managed Abortion”] (https://journals.sagepub.com/doi/10.1177/00221465231215783) *Journal of Health and Social Behavior,* Online first. 
-
-O’Quinn, Jamie, Erika Slaymaker, Jess Goldstein-Kral, and **Kathleen Broussard**. [“Sociology from a Distance: Remote Interviews and Feminist Methods”](https://link.springer.com/article/10.1007/s11133-024-09556-y) *Qualitative Sociology,* 47:43-67. 
+O’Quinn, Jamie, Erika Slaymaker, Jess Goldstein-Kral, and **Kathleen Broussard**. 2024. [“Sociology from a Distance: Remote Interviews and Feminist Methods”](https://link.springer.com/article/10.1007/s11133-024-09556-y) *Qualitative Sociology,* 47:43-67. 
 
 Zoe Pleasure, Becker, Andréa, Dana Johnson, **Kathleen Broussard**, and Laura Lindberg. [“How TikTok is Being Used to Talk About Abortion Post-Roe: A Content Analysis of the Most Liked Abortion TikToks”](https://doi.org/10.1016/j.contraception.2024.110384) *Contraception,* Online first. 
 
