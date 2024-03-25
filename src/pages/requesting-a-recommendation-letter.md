@@ -1,5 +1,5 @@
 ---
-title: Recommendation letters
+title: recletters
 seo:
   title: ""
   description: ""
