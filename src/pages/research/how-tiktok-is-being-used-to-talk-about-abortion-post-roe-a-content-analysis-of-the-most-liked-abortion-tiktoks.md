@@ -4,7 +4,7 @@ title: "How TikTok is Being Used to Talk About Abortion Post-Roe: A Content
 subtitle: ""
 date: 2024-01-24T14:05:46.403Z
 thumb_img_path: /images/nik-zmy7ag1l0eo-unsplash.jpg
-excerpt: 2024. Contraception
+excerpt: Contraception. 2024
 seo:
   title: ""
   description: ""
