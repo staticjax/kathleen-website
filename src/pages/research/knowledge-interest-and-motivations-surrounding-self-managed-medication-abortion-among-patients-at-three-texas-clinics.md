@@ -7,9 +7,7 @@ thumb_img_path: /images/wow_hand_mouth_pills.png
 thumb_img_alt: ""
 content_img_path: ""
 content_img_alt: ""
-excerpt: "Aiken, Abigail R. A., Kathleen Broussard, Dana Johnson, Elisa Padron,
-  Jennifer E. Starling, and James G. Scott. 2020. American Journal of Obstetrics
-  and Gynecology. Volume 223, Issue 2, 238.e1-238.e10. "
+excerpt: "American Journal of Obstetrics and Gynecology. 2020. "
 seo:
   type: stackbit_page_meta
   title: Knowledge, interest, and motivations surrounding self-managed medication
