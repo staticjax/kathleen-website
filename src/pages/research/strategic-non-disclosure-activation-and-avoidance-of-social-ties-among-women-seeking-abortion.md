@@ -1,10 +1,10 @@
 ---
 title: "Strategic (Non)Disclosure: Activation and Avoidance of Social Ties among
   Women Seeking Abortion"
-subtitle: 2024. Journal of Health and Social Behavior
+subtitle: ""
 date: 2024-01-23T13:45:11.964Z
 thumb_img_path: /images/taylor-hernandez-nk-n6coei5y-unsplash.jpg
-excerpt: 2024. Journal of Health and Social Behavior
+excerpt: Journal of Health and Social Behavior. 2024
 seo:
   title: ""
   description: ""
