@@ -7,8 +7,7 @@ thumb_img_path: /images/woman_computer.png
 thumb_img_alt: woman at home on laptop computer
 content_img_path: ""
 content_img_alt: woman at home on laptop computer
-excerpt: Aiken, Abigail R.A., Kathleen Broussard, Dana Johnson, and Elisa
-  Padron. 2018. Perspectives on Sexual and Reproductive Health 50(4), 157-163.
+excerpt: Perspectives on Sexual and Reproductive Health. 2018
 seo:
   type: stackbit_page_meta
   title: Motivations and Experiences of People Seeking Medication Abortion Online
@@ -39,15 +38,29 @@ seo:
       relativeUrl: true
 template: post
 ---
-## Reach & impact
-
-* Cited in June Medical v. Gee Amicus Brief to the U.S. Supreme Court
-* Media coverage: The New York Times, the Atlantic, PBS Frontline, Los Angeles Times, Wired, among others 
-* Published in *[Perspectives on Sexual and Reproductive Health](https://onlinelibrary.wiley.com/doi/abs/10.1363/psrh.12073)* 
-* Lead article 
+Published in *[Perspectives on Sexual and Reproductive Health](https://onlinelibrary.wiley.com/doi/abs/10.1363/psrh.12073)*
 
 ![Perspectives on Sexual and Reproductive Health journal cover](/images/psrh.jpg)
 
 ## About the study
 
-We conducted anonymous in-depth interviews with 32 people from 20 states who sought abortion medications online. Participants were asked about their (or their partners’) motivations for considering self-managed abortion, the sources of medications they identified and any other methods they considered.
+### CONTEXT
+
+*State legislation restricting access to abortion in the clinic setting raises the possibility that an increasing number of individuals in the United States will self-manage their abortion at home. Medications sourced online represent a potential pathway to abortion self-management. Yet, very little is known about the reasons U.S. residents may seek abortion online or their experiences finding medications and information*.
+
+### METHODS
+
+*In January–June 2017, anonymous in-depth interviews were conducted with 32 people from 20 states who sought abortion medications online (30 women and two men seeking medications for their partners). Participants were asked about their (or their partners’) motivations for considering self-managed abortion, the sources of medications they identified and any other methods they considered. Transcripts were coded and analyzed according to the principles of grounded theory*.
+
+### RESULTS
+
+*The analysis revealed four key themes: Seeking abortion medications online can be a response to clinic access barriers both in states with and in ones without restrictive abortion laws; self-managed abortion can be a preference over clinical care; online options offer either information or medications, but not both; and the lack of trusted online options can delay care and lead to consideration of ineffective or unsafe alternatives*.
+
+### CONCLUSION
+
+*Current online options for abortion medications leave many important needs unmet, particularly for women who encounter barriers to obtaining clinic-based abortion services. There is a public health justification to reduce clinic access barriers and to make medication abortion that is sourced online and managed at home as safe and supported as possible*.
+
+## Reach & impact
+
+* Cited in June Medical v. Gee Amicus Brief to the U.S. Supreme Court
+* Media coverage: The New York Times, the Atlantic, PBS Frontline, Los Angeles Times, Wired, among others
