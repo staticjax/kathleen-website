@@ -8,8 +8,7 @@ thumb_img_alt: Person walks down a street in Northern Ireland with a sign in the
   shop window that says "Abortion is murder"
 content_img_path: ""
 content_img_alt: ""
-excerpt: "Broussard, Kathleen. 2020. Social Science and Medicine 245, Article
-  112686, 1-9.  "
+excerpt: "Social Science and Medicine. 2020 "
 seo:
   type: stackbit_page_meta
   title: ""
