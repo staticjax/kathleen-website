@@ -12,6 +12,9 @@ template: page
 
 ## media coverage
 
+*TIME* | May 2024\
+[﻿‘I Don’t Have Faith in Doctors Anymore.’ Women Say They Were Pressured Into Long-Term Birth Control](https://time.com/6976918/long-term-birth-control-reproductive-coercion)
+
 *Key Opinion Leaders* | July 2022\
 [These Are The Top 5 Key Opinion Leaders (KOLs) On Abortion Legislation](https://www.keyopinionleaders.com/kols-news/these-are-the-top-5-key-opinion-leaders-kols-on-abortion-legislation.shtml)
 
