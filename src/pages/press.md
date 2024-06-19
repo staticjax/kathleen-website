@@ -12,11 +12,15 @@ template: page
 
 ## media coverage
 
+*The Conversation* | June 2024  
+[Abortion bans are changing what it means to be young in America](https://theconversation.com/abortion-bans-are-changing-what-it-means-to-be-young-in-america-231251)
+
 *TIME* | May 2024\
 [﻿‘I Don’t Have Faith in Doctors Anymore.’ Women Say They Were Pressured Into Long-Term Birth Control](https://time.com/6976918/long-term-birth-control-reproductive-coercion)
 
 *Key Opinion Leaders* | July 2022\
-[These Are The Top 5 Key Opinion Leaders (KOLs) On Abortion Legislation](https://www.keyopinionleaders.com/kols-news/these-are-the-top-5-key-opinion-leaders-kols-on-abortion-legislation.shtml)
+[These Are The Top 5 Key Opinion Leaders (KOLs) On Abortion Legislation
+](https://www.keyopinionleaders.com/kols-news/these-are-the-top-5-key-opinion-leaders-kols-on-abortion-legislation.shtml)
 
 *The New Yorker* | November 2021\
 [What Does an At-Home Abortion Look Like in 2021?](https://www.newyorker.com/news/news-desk/what-does-an-at-home-abortion-look-like-in-2021)
