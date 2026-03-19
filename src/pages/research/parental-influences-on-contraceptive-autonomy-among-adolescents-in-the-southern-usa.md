@@ -3,6 +3,7 @@ title: Parental Influences on Contraceptive Autonomy among Adolescents in the
   Southern USA
 subtitle: Culture, Health & Sexuality, 2025
 date: 2026-03-19T19:03:54.700Z
+thumb_img_path: /images/parents2.png
 seo:
   title: ""
   description: ""
