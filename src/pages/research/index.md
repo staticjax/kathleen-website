@@ -18,14 +18,5 @@ seo:
       value: images/1.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
-      value: summary_large_image
-    - name: twitter:title
-      value: Research
-    - name: twitter:description
-      value: This is the Research page
-    - name: twitter:image
-      value: images/1.jpg
-      relativeUrl: true
 template: blog
 ---
