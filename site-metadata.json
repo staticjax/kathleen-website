@@ -6,14 +6,6 @@
     "social_links": [
       {
         "type": "action",
-        "label": "X",
-        "url": "https://twitter.com/rk_broussard",
-        "style": "icon",
-        "icon_class": "twitter",
-        "new_window": true
-      },
-      {
-        "type": "action",
         "label": "Linkedin",
         "url": "https://www.linkedin.com/in/kathleen-broussard/",
         "style": "icon",
