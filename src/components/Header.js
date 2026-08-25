@@ -20,7 +20,7 @@ export default class Header extends React.Component {
                     <div className="site-identity">
                       <p className="site-title"><Link to={withPrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title', null)}</Link></p>
                       {_.get(this.props, 'pageContext.site.siteMetadata.header.tagline', null) && (
-                      <p className="site-description">{_.get(this.props, 'pageContext.site.siteMetadata.header.tagline', null)}</p>
+                      <p className="site-description site-description--prominent">{_.get(this.props, 'pageContext.site.siteMetadata.header.tagline', null)}</p>
                       )}
                     </div>
                     {(_.get(this.props, 'pageContext.site.siteMetadata.header.has_nav', null) || _.get(this.props, 'pageContext.site.siteMetadata.header.has_social', null)) && (
