@@ -1,7 +1,7 @@
 {
-  "title": "Kathleen Broussard, Sociologist",
+  "title": "Kathleen Broussard, Ph.D.",
   "layout_style": "overflow",
-  "palette": "blue",
+  "palette": "custom",
   "header": {
     "social_links": [
       {
@@ -29,18 +29,24 @@
         "new_window": true
       }
     ],
-    "profile_img": "/images/headhsot_square_cropped.jpg",
+    "profile_img": "/images/kathleen-broussard-headshot-new.jpg",
     "background": "light",
-    "tagline": "Sociologist & Demographer",
+    "tagline": "Sociologist & Demographer, University of South Carolina",
     "has_social": true,
-    "profile_img_alt": "Author avatar",
-    "title": "Kathleen Broussard",
+    "profile_img_alt": "Kathleen Broussard",
+    "title": "Kathleen Broussard, Ph.D.",
     "type": "header",
     "nav_links": [
       {
         "type": "action",
         "label": "Home",
         "url": "/",
+        "style": "link"
+      },
+      {
+        "type": "action",
+        "label": "About",
+        "url": "/about/",
         "style": "link"
       },
       {
@@ -65,12 +71,6 @@
         "type": "action",
         "label": "Contact",
         "url": "/contact/",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "About",
-        "url": "/about/",
         "style": "link"
       }
     ],
