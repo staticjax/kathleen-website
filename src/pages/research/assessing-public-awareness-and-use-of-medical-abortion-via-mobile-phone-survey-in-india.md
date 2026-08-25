@@ -33,6 +33,7 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 template: post
+external_url: https://doi.org/10.1016/j.contraception.2019.08.005
 ---
 ## About the study
 
