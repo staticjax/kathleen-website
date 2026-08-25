@@ -5,6 +5,23 @@ import moment from 'moment-strftime'
 import { getPages, Link, withPrefix } from '../utils'
 import CtaButtons from './CtaButtons'
 
+function formatExcerpt(excerpt) {
+  if (!excerpt) return null
+  // Try to split journal and year: find 4-digit year
+  const yearMatch = excerpt.match(/\b(19|20)\d{2}\b/)
+  if (yearMatch) {
+    const yearIdx = excerpt.indexOf(yearMatch[0])
+    const journalPart = excerpt.slice(0, yearIdx).trim()
+    const yearPart = excerpt.slice(yearIdx).trim()
+    return (
+      <>
+        <em>{journalPart}</em>{yearPart ? ` ${yearPart}` : ''}
+      </>
+    )
+  }
+  return <em>{excerpt}</em>
+}
+
 export default class SectionPosts extends React.Component {
   render() {
     let section = _.get(this.props, 'section', null)
@@ -34,17 +51,28 @@ export default class SectionPosts extends React.Component {
                 <div className='post-inside'>
                   <div className='post-column'>
                     {_.get(post, 'frontmatter.thumb_img_path', null) && (
-                      <Link
-                        className='post-thumbnail'
-                        to={withPrefix(_.get(post, 'url', null))}
-                      >
-                        <img
-                          src={withPrefix(
-                            _.get(post, 'frontmatter.thumb_img_path', null)
-                          )}
-                          alt={_.get(post, 'frontmatter.thumb_img_alt', null)}
-                        />
-                      </Link>
+                      _.get(post, 'frontmatter.external_url', null) ? (
+                        <a className='post-thumbnail' href={_.get(post, 'frontmatter.external_url', null)} target="_blank" rel="noopener">
+                          <img
+                            src={withPrefix(
+                              _.get(post, 'frontmatter.thumb_img_path', null)
+                            )}
+                            alt={_.get(post, 'frontmatter.thumb_img_alt', null)}
+                          />
+                        </a>
+                      ) : (
+                        <Link
+                          className='post-thumbnail'
+                          to={withPrefix(_.get(post, 'url', null))}
+                        >
+                          <img
+                            src={withPrefix(
+                              _.get(post, 'frontmatter.thumb_img_path', null)
+                            )}
+                            alt={_.get(post, 'frontmatter.thumb_img_alt', null)}
+                          />
+                        </Link>
+                      )
                     )}
                   </div>
                   <div className='post-wide-column'>
@@ -66,7 +94,7 @@ export default class SectionPosts extends React.Component {
                     </header>
                     {_.get(post, 'frontmatter.excerpt', null) && (
                       <div className='post-content'>
-                        <p>{_.get(post, 'frontmatter.excerpt', null)}</p>
+                        <p>{formatExcerpt(_.get(post, 'frontmatter.excerpt', null))}</p>
                       </div>
                     )}
                     <footer className='post-meta'>
