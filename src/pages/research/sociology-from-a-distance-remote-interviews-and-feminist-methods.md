@@ -15,6 +15,7 @@ seo:
       keyName: name
   type: stackbit_page_meta
 template: post
+external_url: https://doi.org/10.1007/s11133-024-09556-y
 ---
 A﻿bout the Study
 
