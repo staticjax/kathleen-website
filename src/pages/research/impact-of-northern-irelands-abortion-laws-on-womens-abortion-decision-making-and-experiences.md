@@ -39,6 +39,7 @@ seo:
       value: images/2.jpg
       relativeUrl: true
 template: post
+external_url: https://doi.org/10.1136/bmjsrh-2018-200168
 ---
 ## **About the study**
 
