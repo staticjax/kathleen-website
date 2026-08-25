@@ -15,6 +15,7 @@ seo:
       keyName: name
   type: stackbit_page_meta
 template: post
+external_url: https://www.sciencedirect.com/science/article/pii/S0277953626000742?via%3Dihub
 ---
 P﻿ublished open access in *[Social Science and Medicine ](https://www.sciencedirect.com/science/article/pii/S0277953626000742?via%3Dihub)*
 
