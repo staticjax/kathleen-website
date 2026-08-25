@@ -51,12 +51,18 @@ export default class Blog extends React.Component {
                   <div className='post-wide-column'>
                     <header className='post-header'>
                       <h2 className='post-title'>
-                        <Link
-                          to={withPrefix(_.get(post, 'url', null))}
-                          rel='bookmark'
-                        >
-                          {_.get(post, 'frontmatter.title', null)}
-                        </Link>
+                        {_.get(post, 'frontmatter.external_url', null) ? (
+                          <a href={_.get(post, 'frontmatter.external_url', null)} target="_blank" rel="noopener" >
+                            {_.get(post, 'frontmatter.title', null)}
+                          </a>
+                        ) : (
+                          <Link
+                            to={withPrefix(_.get(post, 'url', null))}
+                            rel='bookmark'
+                          >
+                            {_.get(post, 'frontmatter.title', null)}
+                          </Link>
+                        )}
                       </h2>
                     </header>
                     {_.get(post, 'frontmatter.excerpt', null) && (
@@ -75,6 +81,9 @@ export default class Blog extends React.Component {
                           '%B %d, %Y'
                         )}
                       </time>
+                      {_.get(post, 'frontmatter.external_url', null) && (
+                        <span> · <a className="post-doi-link" href={_.get(post, 'frontmatter.external_url', null)} target="_blank" rel="noopener">Read study ↗</a></span>
+                      )}
                     </footer>
                   </div>
                 </div>
