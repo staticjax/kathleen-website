@@ -16,6 +16,7 @@ seo:
       keyName: name
   type: stackbit_page_meta
 template: post
+external_url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2803942
 ---
 ## About the study
 
