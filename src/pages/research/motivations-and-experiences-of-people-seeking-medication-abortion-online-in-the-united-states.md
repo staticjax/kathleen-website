@@ -37,6 +37,7 @@ seo:
       value: images/9.jpg
       relativeUrl: true
 template: post
+external_url: https://doi.org/10.1363/psrh.12073
 ---
 Published in *[Perspectives on Sexual and Reproductive Health](https://onlinelibrary.wiley.com/doi/abs/10.1363/psrh.12073)*
 
