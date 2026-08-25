@@ -52,7 +52,19 @@ sections:
 
       My work engages public conversations on reproductive health, health equity, and social policy through media, community partnerships, and policy briefs. I collaborate with journalists, advocates, and practitioners to translate research into accessible insights.
 
-      Selected press and commentary are available on the Press page.
+      #### Selected media coverage
+
+      * *The Conversation* | June 2024 — [Abortion bans are changing what it means to be young in America](https://theconversation.com/abortion-bans-are-changing-what-it-means-to-be-young-in-america-231251)
+
+      * *TIME* | May 2024 — [‘I Don’t Have Faith in Doctors Anymore.’ Women Say They Were Pressured Into Long-Term Birth Control](https://time.com/6976918/long-term-birth-control-reproductive-coercion)
+
+      * *The New Yorker* | November 2021 — [What Does an At-Home Abortion Look Like in 2021?](https://www.newyorker.com/news/news-desk/what-does-an-at-home-abortion-look-like-in-2021)
+
+      * *The New York Times* | September 2019 — [Why America’s Abortion Rate Might Be Higher Than It Appears](https://www.nytimes.com/2019/09/20/upshot/abortion-pills-rising-use.html)
+
+      * *The Atlantic* | July 2018 — [Illegal Abortion Will Mean Abortion By Mail](https://www.theatlantic.com/health/archive/2018/07/after-abortion-is-illegal/565430/)
+
+      [View All Press](/press/)
   - type: section_content
     title: Mentorship in Practice
     section_id: mentorship
