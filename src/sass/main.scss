@@ -1,64 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap');
 
-// Font.
-$font: (
-  primary: (
-    'DM Sans',
-    'Newsreader',
-    system-ui,
-    sans-serif,
-  ),
-  monospace: (
-    Consolas,
-    Monaco,
-    'Andale Mono',
-    'Ubuntu Mono',
-    monospace,
-  ),
-);
-
-// Palette.
-$palette: (
-  primary: #555e69,
-  secondary: darken(#555e69, 15%),
-  header: #a57662,
-  meta: lighten(#555e69, 25%),
-  border: lighten(#555e69, 55%),
-  bg: lighten(#555e69, 60%),
-  accent: #1de2bc,
-    accent-blue: #3f7d7a,
-  accent-violet: #9371e6,
-  accent-orange: #fc6e51,
-);
-
-@import 'imports/functions';
-@import 'imports/reset';
-@import 'imports/general';
-@import 'imports/icons';
-@import 'imports/animations';
-@import 'imports/structure';
-@import 'imports/header';
-@import 'imports/posts-pages';
-@import 'imports/sections';
-@import 'imports/footer';
-@import 'imports/palettes';
-@import 'imports/banner';
-
-// Warm palette matching headshot photos - overrides
-$palette-custom: (
-  primary: #30352d,
-  secondary: #5a6b4a,
-  meta: #8b5a3c,
-  border: #d9d1c7,
-  bg: #fffdf9,
-  accent: #8b5a3c,
-  accent-blue: #5a6b4a,
-  accent-violet: #8b5a3c,
-  accent-orange: #c98163,
-  header: #fffdf9,
-);
-
-// === PREVIEW EXACT STYLES - pixel-identical to improved-personal-website artifact ===
 :root {
   --ink: #30352d;
   --paper: #fffdf9;
@@ -80,9 +21,9 @@ $palette-custom: (
 html { scroll-behavior: smooth; }
 body {
   margin: 0;
-  color: var(--ink) !important;
-  background: var(--paper) !important;
-  font-family: var(--sans) !important;
+  color: var(--ink);
+  background: var(--paper);
+  font-family: var(--sans);
   line-height: 1.55;
   overflow-x: hidden;
 }
@@ -188,7 +129,7 @@ section { scroll-margin-top: 78px; }
   line-height: 1.65;
 }
 .hero-actions { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 2.25rem; }
-.hero .button {
+.button {
   display: inline-flex;
   align-items: center;
   gap: .55rem;
@@ -201,9 +142,9 @@ section { scroll-margin-top: 78px; }
   font-weight: 700;
   text-decoration: none;
 }
-.hero .button:hover, .hero .button:focus-visible { background: #e3b59c; }
-.hero .button.ghost { background: transparent; color: #fff; border-color: #868b7d; }
-.hero .button.ghost:hover, .hero .button.ghost:focus-visible { border-color: #fff; }
+.button:hover, .button:focus-visible { background: #e3b59c; }
+.button.ghost { background: transparent; color: #fff; border-color: #868b7d; }
+.button.ghost:hover, .button.ghost:focus-visible { border-color: #fff; }
 .arrow { font-size: 1.15em; }
 
 .hero-graphic {
@@ -224,9 +165,9 @@ section { scroll-margin-top: 78px; }
   object-position: center top;
   border-radius: 50%;
   border: 4px solid #fffdf9;
-  box-shadow: 0 22px 55px rgba(48, 35, 27, .2);
   background: #fffdf9;
   padding: 4px;
+  box-shadow: 0 22px 55px rgba(48, 35, 27, .2);
 }
 
 .signal-strip {
@@ -388,7 +329,7 @@ footer a { color: #fff; text-underline-offset: .2rem; }
   .hero { grid-template-columns: 1fr; min-height: 0; }
   .hero-copy { padding-top: 5rem; padding-bottom: 4rem; }
   .hero-graphic { min-height: 430px; }
-  .hero-portrait { max-height: 390px; }
+  .hero-portrait { width: 320px; height: 320px; }
   .signal-strip { grid-template-columns: repeat(2, 1fr); }
   .themes { grid-template-columns: 1fr; }
   .theme { min-height: 250px; }
@@ -413,7 +354,7 @@ footer a { color: #fff; text-underline-offset: .2rem; }
   .hero h1 { font-size: clamp(3rem, 13.5vw, 4.35rem); }
   .hero-summary { font-size: 1rem; }
   .hero-graphic { min-height: 360px; padding: 1.5rem; }
-  .hero-portrait { width: min(100%, 320px); max-height: 330px; }
+  .hero-portrait { width: 320px; height: 320px; }
   .signal-strip { grid-template-columns: 1fr; }
   .signal-strip > * { border-right: 0; border-bottom: 1px solid var(--line); }
   .signal-strip > *:last-child { border-bottom: 0; }
@@ -433,9 +374,3 @@ footer a { color: #fff; text-underline-offset: .2rem; }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
 }
-
-// Override old Stackbit wrappers to allow full-width preview layout
-#page.site { background: var(--paper); }
-.site-content, .site-main, .inner { max-width: none !important; margin: 0 !important; padding: 0 !important; }
-.post-header.inner-sm { display: none; } // hide old title for homepage
-
