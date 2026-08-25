@@ -16,6 +16,7 @@ seo:
       keyName: name
   type: stackbit_page_meta
 template: post
+external_url: https://doi.org/10.1016/j.ssmqr.2022.100075
 ---
 Published in *[Qualitative Research in Health](https://doi.org/10.1016/j.ssmqr.2022.100075)*
 
