@@ -15,6 +15,7 @@ seo:
       keyName: name
   type: stackbit_page_meta
 template: post
+external_url: https://doi.org/10.1080/13691058.2025.2546003
 ---
 P﻿ublished in *[Culture, Health, and Sexuality](https://doi.org/10.1080/13691058.2025.2546003)*
 
