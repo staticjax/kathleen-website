@@ -15,6 +15,7 @@ seo:
       keyName: name
   type: stackbit_page_meta
 template: post
+external_url: https://doi.org/10.3389/fpubh.2023.1274154
 ---
 P﻿ublished in *[Frontiers in Public Health](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2023.1274154/full)*
 
