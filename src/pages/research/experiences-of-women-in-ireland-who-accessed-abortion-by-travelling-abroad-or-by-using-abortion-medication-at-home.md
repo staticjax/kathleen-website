@@ -42,6 +42,7 @@ seo:
       value: images/3.jpg
       relativeUrl: true
 template: post
+external_url: https://srh.bmj.com/content/44/3/181
 ---
 ## A﻿bout the Article
 
