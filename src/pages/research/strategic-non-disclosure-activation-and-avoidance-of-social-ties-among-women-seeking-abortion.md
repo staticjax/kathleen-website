@@ -16,6 +16,7 @@ seo:
       keyName: name
   type: stackbit_page_meta
 template: post
+external_url: https://doi.org/10.1177/00221465231215783
 ---
 ## About the study
 
