@@ -15,6 +15,7 @@ seo:
       keyName: name
   type: stackbit_page_meta
 template: post
+external_url: https://www.demographic-research.org/articles/volume/48/34
 ---
 P﻿ublished in *[Demographic Research](https://www.demographic-research.org/articles/volume/48/34)*
 
