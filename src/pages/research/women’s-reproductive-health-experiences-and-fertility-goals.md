@@ -14,6 +14,7 @@ seo:
       keyName: name
   type: stackbit_page_meta
 template: post
+external_url: https://doi.org/10.1007/s11113-026-09996-0
 ---
 P﻿ublished open access in *[Population Research and Policy Review ](https://link.springer.com/article/10.1007/s11113-026-09996-0)*
 
