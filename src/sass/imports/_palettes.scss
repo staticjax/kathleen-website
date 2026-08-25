@@ -249,3 +249,62 @@
     }
   }
 }
+.palette-custom {
+  a {
+    border-color: #8b5a3c;
+    &:hover {
+      border-color: currentColor;
+    }
+  }
+  button,
+  input[type="submit"],
+  input[type="button"],
+  input[type="reset"],
+  .button {
+    background: #8b5a3c;
+    border-color: #8b5a3c;
+    color: #fff;
+    &:hover,
+    &:focus,
+    &:active {
+      background: transparent;
+      border-color: #8b5a3c;
+      color: #8b5a3c;
+      box-shadow: 0 0 1px 0.5em rgba(139,90,60,0.18);
+    }
+  }
+  .underline {
+    &:after {
+      border-color: #8b5a3c;
+    }
+  }
+  .profile {
+    .avatar {
+      border-color: #fffdf9;
+      box-shadow: 0 0 0 3px rgba(139,90,60,0.18), 0 4px 14px rgba(48,35,27,0.12);
+    }
+  }
+  .social-links {
+    a {
+      &:not(.button) {
+        &:hover {
+          color: #8b5a3c;
+        }
+      }
+      &.button-icon {
+        &:hover,
+        &:focus,
+        &:active {
+          background: #8b5a3c;
+          border-color: #8b5a3c;
+          color: #fff;
+        }
+      }
+    }
+  }
+  .menu-item.current-menu-item,
+  .menu-item :not(.button):hover,
+  .post-title a:hover {
+    color: #8b5a3c;
+  }
+}
