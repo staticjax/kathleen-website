@@ -1,13 +1,10 @@
 import React from 'react'
 import _ from 'lodash'
 import moment from 'moment-strftime'
-
 import { getPages, Link, withPrefix } from '../utils'
-import CtaButtons from './CtaButtons'
 
 function formatExcerpt(excerpt) {
   if (!excerpt) return null
-  // Try to split journal and year: find 4-digit year
   const yearMatch = excerpt.match(/\b(19|20)\d{2}\b/)
   if (yearMatch) {
     const yearIdx = excerpt.indexOf(yearMatch[0])
@@ -30,102 +27,41 @@ export default class SectionPosts extends React.Component {
       'frontmatter.date',
       'desc'
     )
-    let recent_posts = display_posts.slice(
-      0,
-      _.get(section, 'posts_number', null)
-    )
+    let recent_posts = display_posts.slice(0, _.get(section, 'posts_number', 5))
     return (
-      <section
-        id={_.get(section, 'section_id', null)}
-        className='block block-posts'
-      >
-        {_.get(section, 'title', null) && (
-          <h2 className='block-title underline inner-sm'>
-            {_.get(section, 'title', null)}
-          </h2>
-        )}
-        <div className='post-feed'>
-          <div className='post-feed-inside'>
+      <section className="section dark" aria-labelledby="latest-title" id="latest">
+        <div className="wrap">
+          <div className="section-head">
+            <div className="section-index">Latest research</div>
+            <div>
+              <h2 className="section-title" id="latest-title">New questions. New evidence.</h2>
+              <p className="section-intro">Recent work spans contraceptive autonomy, fertility goals, and the social organization of reproductive healthcare.</p>
+            </div>
+          </div>
+          <div className="featured-list">
             {_.map(recent_posts, (post, post_idx) => (
-              <article key={post_idx} className='post post-card'>
-                <div className='post-inside'>
-                  <div className='post-column'>
-                    {_.get(post, 'frontmatter.thumb_img_path', null) && (
-                      _.get(post, 'frontmatter.external_url', null) ? (
-                        <a className='post-thumbnail' href={_.get(post, 'frontmatter.external_url', null)} target="_blank" rel="noopener">
-                          <img
-                            src={withPrefix(
-                              _.get(post, 'frontmatter.thumb_img_path', null)
-                            )}
-                            alt={_.get(post, 'frontmatter.thumb_img_alt', null)}
-                          />
-                        </a>
-                      ) : (
-                        <Link
-                          className='post-thumbnail'
-                          to={withPrefix(_.get(post, 'url', null))}
-                        >
-                          <img
-                            src={withPrefix(
-                              _.get(post, 'frontmatter.thumb_img_path', null)
-                            )}
-                            alt={_.get(post, 'frontmatter.thumb_img_alt', null)}
-                          />
-                        </Link>
-                      )
+              <article key={post_idx} className="featured-paper">
+                <div className="paper-year">{moment(_.get(post, 'frontmatter.date', null)).strftime('%Y')}</div>
+                <div className="paper-copy">
+                  <h3>
+                    {_.get(post, 'frontmatter.external_url', null) ? (
+                      <a href={_.get(post, 'frontmatter.external_url', null)} target="_blank" rel="noopener" style={{color:'inherit', textDecoration:'none'}}>{_.get(post, 'frontmatter.title', null)}</a>
+                    ) : (
+                      _.get(post, 'frontmatter.title', null)
                     )}
-                  </div>
-                  <div className='post-wide-column'>
-                    <header className='post-header'>
-                      <h3 className='post-title'>
-                        {_.get(post, 'frontmatter.external_url', null) ? (
-                          <a href={_.get(post, 'frontmatter.external_url', null)} target="_blank" rel="noopener" >
-                            {_.get(post, 'frontmatter.title', null)}
-                          </a>
-                        ) : (
-                          <Link
-                            to={withPrefix(_.get(post, 'url', null))}
-                            rel='bookmark'
-                          >
-                            {_.get(post, 'frontmatter.title', null)}
-                          </Link>
-                        )}
-                      </h3>
-                    </header>
-                    {_.get(post, 'frontmatter.excerpt', null) && (
-                      <div className='post-content'>
-                        <p>{formatExcerpt(_.get(post, 'frontmatter.excerpt', null))}</p>
-                      </div>
-                    )}
-                    <footer className='post-meta'>
-                      <time
-                        className='published'
-                        dateTime={moment(
-                          _.get(post, 'frontmatter.date', null)
-                        ).strftime('%Y-%m-%d %H:%M')}
-                      >
-                        {moment(_.get(post, 'frontmatter.date', null)).strftime(
-                          '%B %d, %Y'
-                        )}
-                      </time>
-                      {_.get(post, 'frontmatter.external_url', null) && (
-                        <span> · <a className="post-doi-link" href={_.get(post, 'frontmatter.external_url', null)} target="_blank" rel="noopener">Read study ↗</a></span>
-                      )}
-                    </footer>
-                  </div>
+                  </h3>
+                  {_.get(post, 'frontmatter.excerpt', null) && (
+                    <p>{formatExcerpt(_.get(post, 'frontmatter.excerpt', null))}</p>
+                  )}
+                  <p className="paper-meta">{_.get(post, 'frontmatter.excerpt', '') ? '' : ''}{/* excerpt already contains journal */}</p>
                 </div>
+                {_.get(post, 'frontmatter.external_url', null) && (
+                  <a className="paper-link" href={_.get(post, 'frontmatter.external_url', null)} target="_blank" rel="noopener">Read study ↗</a>
+                )}
               </article>
             ))}
           </div>
         </div>
-        {_.get(section, 'actions', null) && (
-          <div className='block-buttons inner-sm'>
-            <CtaButtons
-              {...this.props}
-              actions={_.get(section, 'actions', null)}
-            />
-          </div>
-        )}
       </section>
     )
   }
