@@ -37,6 +37,7 @@ seo:
       value: images/4.jpg
       relativeUrl: true
 template: post
+external_url: https://doi.org/10.1016/j.ajog.2020.02.026
 ---
 Photo by [Women on Web](https://www.womenonweb.org/en/)
 
