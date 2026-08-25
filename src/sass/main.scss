@@ -41,3 +41,132 @@ $palette: (
 @import 'imports/footer';
 @import 'imports/palettes';
 @import 'imports/banner';
+
+// Warm palette matching headshot photos - overrides
+$palette-custom: (
+  primary: #30352d,
+  secondary: #5a6b4a,
+  meta: #8b5a3c,
+  border: #d9d1c7,
+  bg: #fffdf9,
+  accent: #8b5a3c,
+  accent-blue: #5a6b4a,
+  accent-violet: #8b5a3c,
+  accent-orange: #c98163,
+  header: #fffdf9,
+);
+
+// Compact hero - smaller, subtitle more prominent
+.block-hero--compact {
+  margin-bottom: 2em;
+  padding: 1.5rem 0 2rem;
+  min-height: auto;
+
+  .block-title {
+    font-size: 2.4em; // slightly smaller than default 2.66
+    margin-bottom: 0.6rem;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+  }
+
+  .block-content--prominent {
+    font-size: 1.45em; // larger than default 1.33, more prominent
+    line-height: 1.45;
+    font-weight: 500;
+    color: #5a6b4a;
+    letter-spacing: 0.01em;
+
+    p {
+      margin: 0;
+      font-size: inherit;
+    }
+  }
+}
+
+// Headshot with breathing room - not tight crop
+.profile {
+  .avatar {
+    width: 68px;
+    height: 68px;
+    border: 3px solid #fffdf9;
+    box-shadow: 0 0 0 3px rgba(139, 90, 60, 0.18), 0 4px 14px rgba(48, 35, 27, 0.12);
+    object-fit: contain;
+    object-position: center top;
+    background: #fffdf9;
+    padding: 2px;
+  }
+}
+
+// Alternative larger headshot on homepage if used in content sections
+.block-content {
+  img[src*="kathleen-broussard-headshot-new"],
+  img[src*="headshot_zoomed_out"] {
+    max-width: 340px;
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+    box-shadow: 0 12px 36px rgba(68, 49, 36, 0.12);
+    object-fit: contain;
+    background: #fffdf9;
+    padding: 8px;
+  }
+}
+
+// Site header warm background
+.site-header {
+  background: #fffdf9;
+  border-bottom: 1px solid #d9d1c7;
+}
+
+.site-nav-wrap {
+  background: #fffdf9;
+}
+
+// Warm ink and paper
+body {
+  background: #fffdf9;
+  color: #30352d;
+}
+
+// About-first emphasis
+#about {
+  scroll-margin-top: 90px;
+}
+
+// Teaching, Public Impact, Mentorship sections styling
+#teaching, #public-impact, #mentorship {
+  .block-title {
+    color: #5a6b4a;
+  }
+  blockquote {
+    border-left: 4px solid #8b5a3c;
+    margin: 1.5em 0;
+    padding: 0.8em 1.2em;
+    background: #f3efe8;
+    font-style: italic;
+    color: #30352d;
+  }
+  h3 {
+    color: #8b5a3c;
+    font-size: 1.25em;
+    margin-top: 0;
+  }
+}
+
+// Buttons warm
+.button {
+  &.button--primary {
+    background: #8b5a3c;
+    color: #fff;
+    &:hover {
+      background: #68402b;
+    }
+  }
+}
+.site-description--prominent {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #5a6b4a;
+  letter-spacing: 0.02em;
+  margin-top: 0.35em;
+}
