@@ -16,6 +16,7 @@ seo:
       keyName: name
   type: stackbit_page_meta
 template: post
+external_url: https://doi.org/10.1016/j.contraception.2021.08.002
 ---
 Published in *[Contraception.](https://doi.org/10.1016/j.contraception.2021.08.002)*
 
