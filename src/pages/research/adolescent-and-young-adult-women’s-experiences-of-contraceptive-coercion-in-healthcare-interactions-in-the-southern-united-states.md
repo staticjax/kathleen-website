@@ -15,6 +15,7 @@ seo:
       keyName: name
   type: stackbit_page_meta
 template: post
+external_url: https://www.contraceptionjournal.org/article/S0010-7824(25)00507-4/fulltext
 ---
 P﻿ublished open-access in *[Contraception](https://www.contraceptionjournal.org/article/S0010-7824(25)00507-4/fulltext)*
 
