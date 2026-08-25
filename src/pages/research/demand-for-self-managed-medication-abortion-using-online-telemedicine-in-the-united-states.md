@@ -39,6 +39,7 @@ seo:
       value: images/8.jpg
       relativeUrl: true
 template: post
+external_url: https://doi.org/10.2105/AJPH.2019.305369
 ---
 Map Showing Density of Requests for Abortion Medications to Women on Web by State of Residence: United States; October 15, 2017–August 15, 2018
 
