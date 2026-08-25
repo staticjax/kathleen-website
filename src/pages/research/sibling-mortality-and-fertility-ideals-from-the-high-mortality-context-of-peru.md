@@ -37,6 +37,7 @@ seo:
       value: images/5.jpg
       relativeUrl: true
 template: post
+external_url: https://doi.org/10.1080/00324728.2020.1737188
 ---
 ## About the study
 
