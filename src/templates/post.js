@@ -28,6 +28,11 @@ export default class Post extends React.Component {
                     {htmlToReact(_.get(this.props, 'pageContext.frontmatter.subtitle', null))}
                   </div>
                   )}
+                  {_.get(this.props, 'pageContext.frontmatter.external_url', null) && (
+                    <div className="post-external-link" style={{marginTop: '1rem'}}>
+                      <a href={_.get(this.props, 'pageContext.frontmatter.external_url', null)} target="_blank" rel="noopener" className="button">Read study ↗</a>
+                    </div>
+                  )}
                 </header>
                 {_.get(this.props, 'pageContext.frontmatter.content_img_path', null) && (
                 <div className="post-image">
