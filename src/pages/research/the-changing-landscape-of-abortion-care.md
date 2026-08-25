@@ -37,6 +37,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 template: post
+external_url: https://doi.org/10.1016/j.socscimed.2019.112686
 ---
 Photo by [Allen LEONARD](https://www.flickr.com/photos/mrulster/49935507627/in/gallery-193145969@N07-72157719330031999/)
 
